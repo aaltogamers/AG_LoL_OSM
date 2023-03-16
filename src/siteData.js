@@ -1,5 +1,12 @@
-import { zonedTimeToUtc } from "date-fns-tz";
 import { translations, languages } from "./translations";
+import {
+  FaDiscord,
+  FaTelegram,
+  FaInstagram,
+  FaTwitch,
+  FaGlobe,
+} from "react-icons/fa";
+
 export const siteInfo = {
   timezone: "Europe/Helsinki",
   defaultLocale: languages.FI,
@@ -8,25 +15,33 @@ export const siteInfo = {
   description: translations.siteDescription,
   author: "Aalto Gamers",
   domain: translations.homePageLink,
-  socialMedia: {
-    instagram: {
+  socialMedia: [
+    {
       label: "Instagram",
       url: "http://www.instagram.com/aaltogamers/",
+      Icon: FaInstagram,
     },
-    telegram: {
+    {
       label: "Telegram",
       url: "https://t.me/+1nNBzegP0hthMmM0",
-      network: "telegram",
+      Icon: FaTelegram,
     },
-    discord: {
+    {
       label: "Discord",
       url: "https://discord.gg/Ew7nGQqHgc",
+      Icon: FaDiscord,
     },
-    twitch: {
+    {
       label: "Twitch",
       url: "http://twitch.tv/aaltogamers",
+      Icon: FaTwitch,
     },
-  },
+    {
+      label: "Aaltogamers.fi",
+      url: "http://aaltogamers.fi",
+      Icon: FaGlobe,
+    },
+  ],
   sponsors: [
     {
       label: "Espoo",
@@ -63,54 +78,9 @@ export const siteInfo = {
   ],
 };
 
-export const tournamentInfo = {
-  dates: {
-    signUpStart: {
-      date: zonedTimeToUtc("2023-04-01 12:00:00.000", siteInfo.timezone),
-      name: translations.dates.signUpStart,
-      description: null,
-    },
-    signUpEnd: {
-      date: zonedTimeToUtc("2023-05-15 12:00:00.000", siteInfo.timezone),
-      name: translations.dates.signUpEnd,
-      description: null,
-    },
-    qualifiers: {
-      date: zonedTimeToUtc("2023-05-21 12:00:00.000", siteInfo.timezone),
-      name: translations.dates.qualifiers,
-      description: null,
-    },
-    finals: {
-      date: zonedTimeToUtc("2023-05-27 12:00:00.000", siteInfo.timezone),
-      name: translations.dates.finals,
-      description: null,
-    },
-  },
+export const markdownReplacements = {
+  registrationStartDate: "31.03.",
+  registrationEndDate: "14.05.",
+  qualifiersDate: "20.05.",
+  finalsDate: "27.05.",
 };
-
-export const sectionAnchors = {
-  info: "info",
-  timeline: "timeline",
-  format: "format",
-  signUp: "sign-up",
-  contact: "contact",
-};
-
-export const menuItems = [
-  {
-    title: translations.titles.infoMenuTitle,
-    anchor: sectionAnchors.info,
-  },
-  {
-    title: translations.titles.timelineTitle,
-    anchor: sectionAnchors.timeline,
-  },
-  {
-    title: translations.titles.formatTitle,
-    anchor: sectionAnchors.format,
-  },
-  {
-    title: translations.titles.contactTitle,
-    anchor: sectionAnchors.contact,
-  },
-];

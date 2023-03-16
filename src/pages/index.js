@@ -1,40 +1,60 @@
-import React from "react"
-import { LanguageProvider } from "../contexts/Language"
-import { CustomMDXProvider } from "../contexts/CustomMDX"
-import Head from "../components/head.js"
-import MobileHeader from "../components/mobileHeader"
-import DesktopMenu from "../components/desktopMenu"
-import LandingModule from "../modules/landingModule.js"
-import GeneralInfoModule from "../modules/generalInfoModule.js"
-import TimelineModule from "../modules/timelineModule.js"
-import FormatModule from "../modules/formatModule.js"
-import ContactModule from "../modules/contactModule"
-import FooterModule from "../modules/footerModule"
+import React, { useContext } from "react";
+import { LanguageProvider } from "../contexts/Language";
+import Head from "../components/Head";
+import Hero from "../components/Hero";
+import Footer from "../components/Footer";
+import Module from "../components/Module";
+import { graphql, useStaticQuery } from "gatsby";
+import SocialIcons from "../components/SocialIcons";
+import LanguageSelector from "../components/LanguageSelector";
+import { LanguageContext } from "../contexts/Language";
 
-// markup
 const IndexPage = () => {
+  const [langState] = useContext(LanguageContext);
+  const modulesData = useStaticQuery(graphql`
+    query {
+      allMarkdownRemark {
+        nodes {
+          frontmatter {
+            title
+            order
+          }
+          rawMarkdownBody
+          fileAbsolutePath
+        }
+      }
+    }
+  `);
+  const modules = modulesData.allMarkdownRemark.nodes
+    .map((node) => {
+      const content = node.rawMarkdownBody;
+      const lang = node.fileAbsolutePath.includes("finnish") ? "fi" : "en";
+      const { title, order } = node.frontmatter;
+      return { content, title, order, lang };
+    })
+    .filter(({ lang }) => lang === langState);
   return (
-      <main className="bg-background">
-        <Head></Head>
-        <MobileHeader></MobileHeader>
-        <DesktopMenu></DesktopMenu>
-        <LandingModule></LandingModule>
-        <GeneralInfoModule></GeneralInfoModule>
-        <TimelineModule></TimelineModule>
-        <FormatModule></FormatModule>
-        <ContactModule></ContactModule>
-        <FooterModule></FooterModule>
-      </main>
-  )
-}
+    <main className="bg-black font-mono">
+      <Head />
+      <LanguageSelector />
+      <Hero />
+      <div className="text-center px-8 md:px-48 md:text-left">
+        {modules
+          .sort((a, b) => a.order - b.order)
+          .map((moduleData) => (
+            <Module moduleData={moduleData} key={moduleData.title} />
+          ))}
+        <SocialIcons />
+      </div>
+      <Footer />
+    </main>
+  );
+};
 
-const IndexWithProviders = () => 
+const IndexWithProviders = () => (
   <LanguageProvider>
-    <CustomMDXProvider>
-      <IndexPage></IndexPage>
-    </CustomMDXProvider>
+    <IndexPage></IndexPage>
   </LanguageProvider>
+);
 
-export default IndexWithProviders
-
-
+export default IndexWithProviders;

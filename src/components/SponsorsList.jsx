@@ -26,7 +26,11 @@ const SponsorList = () => {
   return (
     <div className="mt-10 flex justify-center items-center flex-wrap">
       {siteInfo.sponsors.map((sponsor) => (
-        <SponsorLogo sponsor={sponsor} logos={logos}></SponsorLogo>
+        <SponsorLogo
+          sponsor={sponsor}
+          logos={logos}
+          key={sponsor.label}
+        ></SponsorLogo>
       ))}
     </div>
   );
