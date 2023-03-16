@@ -1,8 +1,8 @@
 {
-  "name": "lo-l-osm-2022",
+  "name": "lo-l-osm",
   "version": "1.0.0",
   "private": true,
-  "description": "lo-l-osm-2022",
+  "description": "lo-l-osm",
   "author": "Ilmari  Tarpila",
   "keywords": [
     "gatsby"
