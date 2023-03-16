@@ -2,8 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
-@import "./typography.css";
+@font-face {
+  font-family: "Phage Regular";
+  src: url("../fonts/Phage\ Regular.woff2");
+}
 
 .customFont-PhageRegular {
-    font-family: 'Phage Regular', 'Arial Narrow Bold', sans-serif;
+  font-family: "Phage Regular", "Arial Narrow Bold", sans-serif;
 }
