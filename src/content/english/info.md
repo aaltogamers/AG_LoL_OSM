@@ -21,7 +21,7 @@ EU West
 
 ### Stream
 
-Both days will be streamed at [twitch.tv/aaltogamers](twitch.tv/aaltogamers).
+Both days will be streamed at [twitch.tv/aaltogamers](https://twitch.tv/aaltogamers).
 
 ### Prices
 
