@@ -1,6 +1,6 @@
 import React from "react";
 import { siteInfo } from "../siteData";
-import SponsorLogo from "./sponsorLogo";
+import SponsorLogo from "./SponsorLogo";
 import { graphql, useStaticQuery } from "gatsby";
 
 const SponsorList = () => {
