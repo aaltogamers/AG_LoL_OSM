@@ -32,7 +32,7 @@ const Module = ({ moduleData }) => {
   });
 
   return (
-    <div className="text-white pt-16" id={title}>
+    <div className="text-white pt-8" id={title}>
       <ReactMarkdown components={components}>{content}</ReactMarkdown>
     </div>
   );

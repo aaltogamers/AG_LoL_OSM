@@ -38,7 +38,7 @@ const IndexPage = () => {
       <Head />
       <LanguageSelector />
       <Hero />
-      <div className="text-center px-8 md:px-48 md:text-left">
+      <div className="text-center pt-8 px-8 md:px-48 md:text-left">
         {modules
           .sort((a, b) => a.order - b.order)
           .map((moduleData) => (

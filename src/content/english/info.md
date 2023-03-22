@@ -30,3 +30,7 @@ Both days will be streamed at [twitch.tv/aaltogamers](https://twitch.tv/aaltogam
 ### Rules
 
 [Read the rules here](https://docs.google.com/document/d/1waaq1OgqcMJkLjUnUPSOOP2veuxfPzY9/edit)
+
+### Sign-up
+
+Sign-ups open $registrationStartDate$
