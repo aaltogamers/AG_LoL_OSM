@@ -32,8 +32,8 @@ const translations = {
       [languages.EN]: "FINNISH STUDENT CHAMPIONSHIPS",
     },
     landingTitle3: {
-      [languages.FI]: "2000€ PRIZE POOL",
-      [languages.EN]: "2000€ PRIZE POOL",
+      [languages.FI]: "2000$ PRIZE POOL",
+      [languages.EN]: "2000$ PRIZE POOL",
     },
   },
 };

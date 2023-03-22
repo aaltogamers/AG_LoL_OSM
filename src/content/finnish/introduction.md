@@ -12,6 +12,6 @@ Kerää joukkueesi opiskelijoista tai vastavalmistuneista, kilpaile 2000€ palk
 ja LOL OSM-pokaalista.
 
 Mitä? League of Legends opiskelijoiden SM-kisat 2023.  
-Milloin? Karsinnat: $qualifiersDate$, Online. Finaalit: $finalsDate$, Design Factory, Espoo, Otaniemi.  
+Milloin? Karsinnat: $qualifiersDate$, Online. Finaalit: $finalsDate$, Design Factory, Puumiehenkuja 5a, Espoo.  
 Palkinnot? 2000€ palkintopotti.  
 Ilmoittautuminen? Ilmoittautuminen aukeaa $registrationStartDate$ Ilmoittautua voit [tästä]().

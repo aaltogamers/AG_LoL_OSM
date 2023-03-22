@@ -12,7 +12,7 @@ $qualifiersDate$ 12:00 - 19:00 Online
 
 ### Finaalit
 
-$finalsDate$ Espoossa  
+$finalsDate$ Design Factory, Puumiehenkuja 5a, Espoo.  
 4 parhaan tiimin single-elimination, paras kolmesta (BO3).
 
 ### Serveri
@@ -25,10 +25,8 @@ Molemmat päivät streamataan osoitteessa [twitch.tv/aaltogamers](https://twitch
 
 ### Palkinnot
 
-1: 1000€  
-2: 500€  
-3 & 4: 100€
+2000€ palkintopotti
 
 ### Säännöt
 
-[Lue säännöt täältä](https://docs.google.com/document/d/1qpAEQ6e777UAiiuEsdF4xkvOMcCil-eYR7UILLeNB0I/edit)
+[Lue säännöt täältä](https://docs.google.com/document/d/1waaq1OgqcMJkLjUnUPSOOP2veuxfPzY9/edit)
