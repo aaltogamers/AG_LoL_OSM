@@ -8,7 +8,7 @@ const LandingModule = () => {
   const [langState] = useContext(LanguageContext);
   const t = (translation) => translate(translation, langState);
   return (
-    <div className="bg-landing bg-cover bg-no-repeat bg-center min-h-screen min-w-screen flex flex-col justify-center items-center text-center font-phage tracking-widest px-2">
+    <div className="bg-[url('../images/landing.webp')] bg-cover bg-no-repeat bg-center min-h-screen min-w-screen flex flex-col justify-center items-center text-center font-phage tracking-widest px-2">
       <h1 className="text-4xl lg:text-[5rem]">
         {t(translations.titles.landingTitle1)}
       </h1>

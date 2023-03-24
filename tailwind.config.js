@@ -8,9 +8,6 @@ module.exports = {
         white: "#f7f7f7",
       },
       fontFamily: { phage: "Phage Regular" },
-      backgroundImage: {
-        landing: "url('../images/landing.webp')",
-      },
     },
   },
   plugins: [],
