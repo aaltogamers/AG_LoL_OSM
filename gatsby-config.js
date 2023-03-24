@@ -83,5 +83,8 @@ module.exports = {
         path: `./src/content/english/`,
       },
     },
+    {
+      resolve: "gatsby-background-image",
+    },
   ],
 };
