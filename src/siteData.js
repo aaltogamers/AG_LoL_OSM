@@ -58,11 +58,13 @@ export const siteInfo = {
       link: "https://www.osmkisat.fi/",
       logoName: "OSM-LOGO",
     },
+    /*
     {
       label: "ED",
       link: "https://www.hartwall.fi/juomat/energiajuomat/ed/",
       logoName: "edlogo",
     },
+    */
     {
       label: "Lenovo",
       link: "https://www.lenovo.com/us/en/legion/",
@@ -70,9 +72,9 @@ export const siteInfo = {
       invert: true,
     },
     {
-      label: "Nokia",
-      link: "https://www.nokia.com/about-us/careers/",
-      logoName: "nokia",
+      label: "K-market Otaniemi",
+      link: "https://www.k-ruoka.fi/kauppa/k-market-otaniemi",
+      logoName: "kmarket",
       invert: true,
     },
   ],

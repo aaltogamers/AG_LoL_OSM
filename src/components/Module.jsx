@@ -13,7 +13,7 @@ const H3 = ({ children }) => (
 const P = ({ children }) => <p className="mb-8">{children}</p>;
 
 const A = ({ children, href }) => (
-  <a className="text-red hover:cursor-pointer hover:text-rose-300" href={href}>
+  <a className="text-link hover:cursor-pointer hover:text-rose-300" href={href}>
     {children}
   </a>
 );
@@ -32,7 +32,7 @@ const Module = ({ moduleData }) => {
   });
 
   return (
-    <div className="text-white pt-8" id={title}>
+    <div className="pt-8" id={title}>
       <ReactMarkdown components={components}>{content}</ReactMarkdown>
     </div>
   );

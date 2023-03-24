@@ -3,13 +3,13 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        black: "#0d0d0d",
-        red: "#E70657",
+        black: "#212428",
+        link: "#94442b",
+        white: "#f7f7f7",
       },
       fontFamily: { phage: "Phage Regular" },
       backgroundImage: {
-        "teemo-desktop": "url('../images/teemo_desktop.webp')",
-        "teemo-mobile": "url('../images/teemo_mobile.webp')",
+        landing: "url('../images/landing.webp')",
       },
     },
   },

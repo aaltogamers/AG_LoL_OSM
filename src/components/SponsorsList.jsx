@@ -14,7 +14,7 @@ const SponsorList = () => {
                 layout: CONSTRAINED
                 placeholder: TRACED_SVG
                 transformOptions: {
-                  duotone: { highlight: "#ffffff", shadow: "#ffffff" }
+                  duotone: { highlight: "#212428", shadow: "#212428" }
                 }
               )
             }

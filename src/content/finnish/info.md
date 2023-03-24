@@ -29,7 +29,7 @@ Molemmat päivät streamataan osoitteessa [twitch.tv/aaltogamers](https://twitch
 
 ### Säännöt
 
-[Lue säännöt täältä](https://docs.google.com/document/d/1waaq1OgqcMJkLjUnUPSOOP2veuxfPzY9/edit)
+[Lue säännöt täältä](https://docs.google.com/document/d/1waaq1OgqcMJkLjUnUPSOOP2veuxfPzY9/edit?usp=sharing&ouid=105544790108138006577&rtpof=true&sd=true)
 
 ### Ilmoittautuminen
 

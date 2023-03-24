@@ -14,14 +14,12 @@ module.exports = {
     {
       resolve: "gatsby-plugin-manifest",
       options: {
-        icon: "src/images/teemolit.png",
+        icon: "src/images/square.png",
         name: translations.tournamentTitle.fi,
         short_name: translations.tournamentTitleShort.fi,
         description: translations.siteDescription.fi,
         start_url: `/*`,
         lang: "fi",
-        background_color: `#d0d0d0`,
-        theme_color: `#E70657`,
         display: `standalone`,
         localize: [
           {
