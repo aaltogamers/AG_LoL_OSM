@@ -31,10 +31,6 @@ const translations = {
       [languages.FI]: "OPISKELIJOIDEN SM-KISAT",
       [languages.EN]: "FINNISH STUDENT CHAMPIONSHIPS",
     },
-    landingTitle3: {
-      [languages.FI]: "2000$ PRIZE POOL",
-      [languages.EN]: "2000$ PRIZE POOL",
-    },
   },
 };
 module.exports = {

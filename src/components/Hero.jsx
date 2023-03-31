@@ -33,7 +33,9 @@ const Hero = () => {
       </h1>
       <div className="text-xl lg:text-3xl">
         <h2 className="pt-4">{t(translations.titles.landingTitle2)}</h2>
-        <h2 className="pt-4">{t(translations.titles.landingTitle3)}</h2>
+        <h2 className="pt-4">
+          2000<span className="font-ethno">€</span> PRIZE POOL
+        </h2>
       </div>
       <SponsorList></SponsorList>
     </BackgroundImage>

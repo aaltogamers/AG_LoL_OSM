@@ -7,7 +7,7 @@ module.exports = {
         link: "#94442b",
         white: "#f7f7f7",
       },
-      fontFamily: { phage: "Phage Regular" },
+      fontFamily: { phage: "Phage Regular", ethno: "Ethnocentric" },
     },
   },
   plugins: [],
