@@ -31,6 +31,11 @@ Molemmat päivät streamataan osoitteessa [twitch.tv/aaltogamers](https://twitch
 
 [Lue säännöt täältä](https://docs.google.com/document/d/1waaq1OgqcMJkLjUnUPSOOP2veuxfPzY9/edit?usp=sharing&ouid=105544790108138006577&rtpof=true&sd=true)
 
+### Tutkimus
+
+OSM osallistuu Aalto-yliopiston tutkijoiden tekemään tutkimukseen e-urheilujoukkueiden kommunikaatiosta ja toiminnasta.  
+Aiheesta voi lukea lisää [täältä](https://docs.google.com/document/d/1igqIM28yewJ6KOqbOrDJ-MG5qXCz43BeE0lIpeGM-Wc/edit?usp=sharing).
+
 ### Ilmoittautuminen
 
-Ilmoittautuminen? Ilmoittautuminen aukeaa $registrationStartDate$
+Ilmoittautuminen on auki ja löytyy [täältä](https://forms.gle/eNdR5P2SMZBWsvHK6)!
