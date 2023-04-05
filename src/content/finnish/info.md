@@ -25,7 +25,9 @@ Molemmat päivät streamataan osoitteessa [twitch.tv/aaltogamers](https://twitch
 
 ### Palkinnot
 
-2000€ palkintopotti
+1\. sija 1000€  
+2\. sija 500€  
+3\.-4. sija 250€
 
 ### Säännöt
 
@@ -38,4 +40,6 @@ Aiheesta voi lukea lisää [täältä](https://docs.google.com/document/d/1igqIM
 
 ### Ilmoittautuminen
 
-Ilmoittautuminen on auki ja löytyy [täältä](https://forms.gle/eNdR5P2SMZBWsvHK6)!
+Ilmoittautuminen on auki ja löytyy **[täältä](https://forms.gle/eNdR5P2SMZBWsvHK6)!**
+
+Kaikkien joukkueessa täytyy olla korkeakoululopiskelija suomalaisessa yliopistossa tai ammattikorkeakoulussa. Heidän ei kuidenkaan tarvitse olla samasta koulusta. Myös enintään vuosi sitten valmistuneet voivat osallistua.

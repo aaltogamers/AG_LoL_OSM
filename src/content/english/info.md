@@ -25,9 +25,11 @@ Both days will be streamed at [twitch.tv/aaltogamers](https://twitch.tv/aaltogam
 
 ### Prices
 
-2000€ prize pool
+1st 1000€  
+2nd 500€  
+3-4th 250€
 
-### Rules
+### Rule
 
 [Read the rules here](https://docs.google.com/document/d/1waaq1OgqcMJkLjUnUPSOOP2veuxfPzY9/edit?usp=sharing&ouid=105544790108138006577&rtpof=true&sd=true)
 
@@ -38,4 +40,6 @@ You can read more about it [here](https://docs.google.com/document/d/1igqIM28yew
 
 ### Sign-up
 
-Sign-ups are open and can be found [here](https://forms.gle/eNdR5P2SMZBWsvHK6)!
+Sign-ups are open and can be found **[here](https://forms.gle/eNdR5P2SMZBWsvHK6)!**
+
+Everyone in the team needs to be a higher education student in a Finnish University or a University of Applied Sciences. Everyone does **not** need to be from the same school. Exchange and international students in Finland are also eligible to join, as well as people who have graduated a maximum of 1 year ago.
