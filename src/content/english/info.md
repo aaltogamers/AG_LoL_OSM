@@ -25,9 +25,9 @@ Both days will be streamed at [twitch.tv/aaltogamers](https://twitch.tv/aaltogam
 
 ### Prices
 
-1st 1000€  
-2nd 500€  
-3-4th 250€
+1st place 1000€  
+2nd place 500€  
+3-4th place 250€
 
 ### Rule
 
@@ -43,3 +43,9 @@ You can read more about it [here](https://docs.google.com/document/d/1igqIM28yew
 Sign-ups are open until 10.05. and can be found **[here](https://forms.gle/eNdR5P2SMZBWsvHK6)!**
 
 Everyone in the team needs to be a higher education student in a Finnish University or a University of Applied Sciences. Everyone does **not** need to be from the same school. Exchange and international students in Finland are also eligible to join, as well as people who have graduated a maximum of 1 year ago.
+
+### Afterparty
+
+The afterparty will be held at [Rantasauna](https://www.ayy.fi/fi/rantasauna), and it starts right after the main event ends (about 22:00).  
+The afterparty is open to all people who attended the event (players, organizers, and spectators).  
+There'll be sauna and hot tub, so bring your swimwear and a towel!

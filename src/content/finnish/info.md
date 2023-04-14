@@ -43,3 +43,9 @@ Aiheesta voi lukea lisää [täältä](https://docs.google.com/document/d/1igqIM
 Ilmoittautuminen on auki 10.05. asti ja löytyy **[täältä](https://forms.gle/eNdR5P2SMZBWsvHK6)!**
 
 Kaikkien joukkueessa täytyy olla korkeakoululopiskelija suomalaisessa yliopistossa tai ammattikorkeakoulussa. Heidän ei kuidenkaan tarvitse olla samasta koulusta. Myös enintään vuosi sitten valmistuneet voivat osallistua.
+
+### Jatkot
+
+Jatkot pidetään [Rantasaunalla](https://www.ayy.fi/fi/rantasauna), ja ne alkavat heti kun turnaus päättyy (n. 22:00).  
+Jatkoille voivat tulla kaikki turnauksen osallistujat (pelaajat, järjestäjät ja katsojat).  
+Jatkoilla on palju ja sauna, joten kannattaa ottaa mukaan uimavaatteet ja pyyhe!
