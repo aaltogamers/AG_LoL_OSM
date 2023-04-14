@@ -58,18 +58,16 @@ export const siteInfo = {
       link: "https://www.osmkisat.fi/",
       logoName: "OSM-LOGO",
     },
-    /*
-    {
-      label: "ED",
-      link: "https://www.hartwall.fi/juomat/energiajuomat/ed/",
-      logoName: "edlogo",
-    },
-    */
     {
       label: "Lenovo",
       link: "https://www.lenovo.com/us/en/legion/",
       logoName: "legion",
       invert: true,
+    },
+    {
+      label: "ED",
+      link: "https://www.hartwall.fi/juomat/energiajuomat/ed/",
+      logoName: "EDlogo",
     },
     {
       label: "K-market Otaniemi",

@@ -40,6 +40,6 @@ Aiheesta voi lukea lisää [täältä](https://docs.google.com/document/d/1igqIM
 
 ### Ilmoittautuminen
 
-Ilmoittautuminen on auki ja löytyy **[täältä](https://forms.gle/eNdR5P2SMZBWsvHK6)!**
+Ilmoittautuminen on auki 10.05. asti ja löytyy **[täältä](https://forms.gle/eNdR5P2SMZBWsvHK6)!**
 
 Kaikkien joukkueessa täytyy olla korkeakoululopiskelija suomalaisessa yliopistossa tai ammattikorkeakoulussa. Heidän ei kuidenkaan tarvitse olla samasta koulusta. Myös enintään vuosi sitten valmistuneet voivat osallistua.
