@@ -13,7 +13,9 @@ $qualifiersDate$ 12:00 - 19:00 Online
 ### Finals
 
 $finalsDate$ at Design Factory, Puumiehenkuja 5a, Espoo.  
-4 team single-elimination, best of 3 (BO3).
+4 team single-elimination, best of 3 (BO3).  
+You can get your ticket to the finals **[here](https://kide.app/events/ce22c41b-8133-4353-b3d1-ad7360ce9175)**.  
+Basic tickets are **free** and VIP tickets (for a group of 3) are 30€.
 
 ### Server
 

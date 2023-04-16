@@ -13,7 +13,9 @@ $qualifiersDate$ 12:00 - 19:00 Online
 ### Finaalit
 
 $finalsDate$ Design Factory, Puumiehenkuja 5a, Espoo.  
-4 parhaan tiimin single-elimination, paras kolmesta (BO3).
+4 parhaan tiimin single-elimination, paras kolmesta (BO3).  
+Liput finaaliin saa **[täältä](https://kide.app/events/ce22c41b-8133-4353-b3d1-ad7360ce9175)**.  
+Peruslippu on **ilmainen** ja VIP lippu (3 hlö ryhmälle) 30€.
 
 ### Serveri
 
@@ -42,7 +44,7 @@ Aiheesta voi lukea lisää [täältä](https://docs.google.com/document/d/1igqIM
 
 Ilmoittautuminen on auki 10.05. asti ja löytyy **[täältä](https://forms.gle/eNdR5P2SMZBWsvHK6)!**
 
-Kaikkien joukkueessa täytyy olla korkeakoululopiskelija suomalaisessa yliopistossa tai ammattikorkeakoulussa. Heidän ei kuidenkaan tarvitse olla samasta koulusta. Myös enintään vuosi sitten valmistuneet voivat osallistua.
+Kaikkien joukkueessa täytyy olla korkeakoululopiskelijoita suomalaisessa yliopistossa tai ammattikorkeakoulussa. Heidän ei kuidenkaan tarvitse olla samasta koulusta. Myös enintään vuosi sitten valmistuneet voivat osallistua.
 
 ### Jatkot
 
