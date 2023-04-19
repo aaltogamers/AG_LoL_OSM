@@ -48,6 +48,6 @@ Everyone in the team needs to be a higher education student in a Finnish Univers
 
 ### Afterparty
 
-The afterparty will be held at [Rantasauna](https://www.ayy.fi/fi/rantasauna), and it starts right after the main event ends (about 22:00).  
+The afterparty is brought to you by our main sponsor Digia, and held at [Rantasauna](https://www.ayy.fi/fi/rantasauna). It starts right after the main event ends (about 22:00).  
 The afterparty is open to all people who attended the event (players, organizers, and spectators).  
 There'll be a sauna and a hot tub, so bring your swimwear and a towel!
