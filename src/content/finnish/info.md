@@ -48,6 +48,6 @@ Kaikkien joukkueessa täytyy olla korkeakoululopiskelijoita suomalaisessa yliopi
 
 ### Jatkot
 
-Jatkot pidetään [Rantasaunalla](https://www.ayy.fi/fi/rantasauna), ja ne alkavat heti kun turnaus päättyy (n. 22:00).  
+Pääsponsorimme Digian tarjoamat jatkot pidetään [Rantasaunalla](https://www.ayy.fi/fi/rantasauna), ja ne alkavat heti kun turnaus päättyy (n. 22:00).  
 Jatkoille voivat tulla kaikki turnauksen osallistujat (pelaajat, järjestäjät ja katsojat).  
 Jatkoilla on palju ja sauna, joten kannattaa ottaa mukaan uimavaatteet ja pyyhe!
