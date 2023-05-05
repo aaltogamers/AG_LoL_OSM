@@ -18,9 +18,9 @@ const translations = {
   },
   siteDescription: {
     [languages.FI]:
-      "Vastaa kutsuun - League of Legendsin opiskelijoiden SM-kisat tulevat 14.-21.5.2023!",
+      "Vastaa kutsuun - League of Legendsin opiskelijoiden SM-kisat tulevat 13.-27.5.2023!",
     [languages.EN]:
-      "Answer the Call - League of Legends Finnish Student Championships are coming on 14.-21.5.2023!",
+      "Answer the Call - League of Legends Finnish Student Championships are coming on 13.-27.5.2023!",
   },
   titles: {
     landingTitle1: {
