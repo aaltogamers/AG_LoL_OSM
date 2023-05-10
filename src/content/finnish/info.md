@@ -12,7 +12,7 @@ $qualifiersDate$ 12:00 - 19:00 Online
 
 ### Finaalit
 
-$finalsDate$ Design Factory, Puumiehenkuja 5a, Espoo.  
+$finalsDate$ 12:00 - n. 23:00 Design Factory, Puumiehenkuja 5a, Espoo.  
 4 parhaan tiimin single-elimination, paras kolmesta (BO3).  
 Liput finaaliin saa **[täältä](https://kide.app/events/ce22c41b-8133-4353-b3d1-ad7360ce9175)**.  
 Peruslippu on **ilmainen** ja VIP lippu (3 hlö ryhmälle) 30€.
@@ -48,6 +48,6 @@ Kaikkien joukkueessa täytyy olla korkeakoululopiskelijoita suomalaisessa yliopi
 
 ### Jatkot
 
-Pääsponsorimme Digian tarjoamat jatkot pidetään [Rantasaunalla](https://www.ayy.fi/fi/rantasauna), ja ne alkavat heti kun turnaus päättyy (n. 22:00).  
+Pääsponsorimme Digian tarjoamat jatkot pidetään [Rantasaunalla](https://www.ayy.fi/fi/rantasauna), ja ne alkavat heti kun turnaus päättyy (n. 23:00).  
 Jatkoille voivat tulla kaikki turnauksen osallistujat (pelaajat, järjestäjät ja katsojat).  
 Jatkoilla on palju ja sauna, joten kannattaa ottaa mukaan uimavaatteet ja pyyhe!
