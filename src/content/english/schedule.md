@@ -5,7 +5,7 @@ order: 2
 
 ## Schedule
 
-$registrationStartDate$ - [Sign-up](https://forms.gle/eNdR5P2SMZBWsvHK6) opens  
-$registrationEndDate$ - [Sign-up](https://forms.gle/eNdR5P2SMZBWsvHK6) closes  
-$qualifiersDate$ - Qualifiers  
+_$registrationStartDate$ - Sign-up opens  
+$registrationEndDate$ - Sign-up closes  
+$qualifiersDate$ - Qualifiers_  
 $finalsDate$ - Finals

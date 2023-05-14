@@ -8,12 +8,13 @@ order: 3
 ### Karsinnat
 
 $qualifiersDate$ 12:00 - 19:00 Online  
-32 tiimin double-elimination, paras yhdestä (BO1). 4 parasta tiimiä jatkavat finaaleihin.
+16 tiimin double-elimination, paras yhdestä (BO1).  
+4 parasta tiimiä etenivät finaaliin: 🦴Lee, Paalun perässä, DMG Esports ja VIVA LA J.MP.!
 
 ### Finaalit
 
 $finalsDate$ 12:00 - n. 23:00 Design Factory, Puumiehenkuja 5a, Espoo.  
-4 parhaan tiimin single-elimination, paras kolmesta (BO3).  
+4 tiimin single-elimination, paras kolmesta (BO3).  
 Liput finaaliin saa **[täältä](https://kide.app/events/ce22c41b-8133-4353-b3d1-ad7360ce9175)**.  
 Peruslippu on **ilmainen** ja VIP lippu (3 hlö ryhmälle) 30€.
 
@@ -39,12 +40,6 @@ Molemmat päivät streamataan osoitteessa [twitch.tv/aaltogamers](https://twitch
 
 OSM osallistuu Aalto-yliopiston tutkijoiden tekemään tutkimukseen e-urheilujoukkueiden kommunikaatiosta ja toiminnasta.  
 Aiheesta voi lukea lisää [täältä](https://docs.google.com/document/d/1igqIM28yewJ6KOqbOrDJ-MG5qXCz43BeE0lIpeGM-Wc/edit?usp=sharing).
-
-### Ilmoittautuminen
-
-Ilmoittautuminen on auki 10.05. asti ja löytyy **[täältä](https://forms.gle/eNdR5P2SMZBWsvHK6)!**
-
-Kaikkien joukkueessa täytyy olla korkeakoululopiskelijoita suomalaisessa yliopistossa tai ammattikorkeakoulussa. Heidän ei kuidenkaan tarvitse olla samasta koulusta. Myös enintään vuosi sitten valmistuneet voivat osallistua.
 
 ### Jatkot
 
