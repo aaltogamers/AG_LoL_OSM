@@ -34,7 +34,7 @@ const IndexPage = () => {
     })
     .filter(({ lang }) => lang === langState);
   return (
-    <main className="font-mono bg-white text-black">
+    <main className="font-barlow bg-darkblue text-white">
       <Head />
       <LanguageSelector />
       <Hero />

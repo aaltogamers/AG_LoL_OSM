@@ -44,43 +44,30 @@ export const siteInfo = {
   ],
   sponsors: [
     {
-      label: "Espoo",
-      link: "https://www.espoo.fi/fi",
-      logoName: "espoologo",
-    },
-    {
-      label: "Digia",
-      link: "https://digia.com/rekrytointi",
-      logoName: "digialogo",
-    },
-    {
       label: "OSM",
       link: "https://www.osmkisat.fi/",
       logoName: "OSM-LOGO",
     },
     {
+      label: "Espoo",
+      link: "https://www.espoo.fi/fi",
+      logoName: "espoologo",
+    },
+    {
       label: "Lenovo",
       link: "https://www.lenovo.com/us/en/legion/",
       logoName: "legion",
-      invert: true,
-    },
-    {
-      label: "ED",
-      link: "https://www.hartwall.fi/juomat/energiajuomat/ed/",
-      logoName: "EDlogo",
-    },
-    {
-      label: "K-market Otaniemi",
-      link: "https://www.k-ruoka.fi/kauppa/k-market-otaniemi",
-      logoName: "kmarket",
-      invert: true,
     },
   ],
 };
 
 export const markdownReplacements = {
-  registrationStartDate: "31.03.",
+  registrationStartDate: "10.4.",
   registrationEndDate: "10.05.",
-  qualifiersDate: "13.05.",
-  finalsDate: "27.05.",
+  qualifiersDate: "18.05.",
+  finalsDate: "26.05.",
+  qualifiersStart: "12:00",
+  qualifiersEnd: "19:00",
+  finalsStart: "12:00",
+  finalsEnd: "23:00",
 };

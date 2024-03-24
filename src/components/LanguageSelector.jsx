@@ -18,12 +18,11 @@ const LanguageSelector = () => {
     setLanguageTo(languages.EN);
   }
   return (
-    <div className="justify-between fixed right-0 top-0 z-10">
+    <div className="justify-between font-barlow fixed right-0 top-0 z-10">
       {Object.entries(languages).map(([key, langString]) => (
         <button
-          className={`text-xl p-4 ${
-            langString === langState && "text-link font-bold"
-          }`}
+          className={`text-xl p-4 ${langString === langState && "text-link font-bold"
+            }`}
           key={key}
           onClick={() => setLanguageTo(langString)}
         >

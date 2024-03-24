@@ -3,10 +3,10 @@ title: introduction
 order: 1
 ---
 
-## Answer the call
+## Join the Hunt
 
-Dear League of Legends players, it’s your time to answer the call!
+Dear League of Legends players, it’s time to join the hunt for the trophy!
 
-Aalto Gamers proudly presents… the League of Legends Finnish Student Championships 2023!
+Aalto Gamers proudly presents the League of Legends Finnish Student Championships 2024!
 
-Gather your team of students or recent graduates and compete for a 2000€ prize pool and the glory of hoisting the LOL OSM cup!
+Gather your team of students or recent graduates and compete for a prize pool and the glory of hoisting the LOL OSM cup!

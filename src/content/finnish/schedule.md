@@ -5,7 +5,7 @@ order: 2
 
 ## Aikataulu
 
-_$registrationStartDate$ - Ilmottautuminen aukeaa  
+$registrationStartDate$ - Ilmottautuminen aukeaa  
 $registrationEndDate$ - Ilmottautuminen sulkeutuu  
-$qualifiersDate$ - Karsinnat_  
+$qualifiersDate$ - Karsinnat  
 $finalsDate$ - Finaali

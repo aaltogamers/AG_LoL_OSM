@@ -14,7 +14,7 @@ module.exports = {
     {
       resolve: "gatsby-plugin-manifest",
       options: {
-        icon: "src/images/square.png",
+        icon: "src/images/square.jpg",
         name: translations.tournamentTitle.fi,
         short_name: translations.tournamentTitleShort.fi,
         description: translations.siteDescription.fi,

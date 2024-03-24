@@ -3,10 +3,19 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: "Phage Regular";
-  src: url("../fonts/Phage\ Regular.woff2");
+  font-family: "Barlow Bold";
+  src: url("../fonts/Barlow-Bold.ttf");
 }
 @font-face {
-  font-family: "Ethnocentric";
-  src: url("../fonts/Ethnocentric.otf");
+  font-family: "Barlow Italic";
+  src: url("../fonts/Barlow-Italic.ttf");
 }
+@font-face {
+  font-family: "Barlow Regular";
+  src: url("../fonts/Barlow-Regular.ttf");
+}
+@font-face {
+  font-family: "Orbitron Black";
+  src: url("../fonts/Orbitron-Black.ttf");
+}
+

@@ -14,7 +14,7 @@ const SponsorList = () => {
                 layout: CONSTRAINED
                 placeholder: TRACED_SVG
                 transformOptions: {
-                  duotone: { highlight: "#212428", shadow: "#212428" }
+                  duotone: { highlight: "#f7f7f7", shadow: "#f7f7f7" }
                 }
               )
             }
@@ -24,7 +24,7 @@ const SponsorList = () => {
     }
   `).logos.edges.map((edge) => edge.node.childImageSharp.gatsbyImageData);
   return (
-    <div className="mt-10 flex justify-center items-center flex-wrap">
+    <div className="mt-10 md:px-5 md:pb-5 pb-2 flex md:items-center items-end self-start flex-wrap">
       {siteInfo.sponsors.map((sponsor) => (
         <SponsorLogo
           sponsor={sponsor}

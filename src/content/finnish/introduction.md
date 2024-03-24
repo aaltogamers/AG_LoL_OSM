@@ -3,10 +3,10 @@ title: introduction
 order: 1
 ---
 
-## Vastaa kutsuun
+## Jahti alkakoon
 
-League of Legends -pelaajat, on teidän aikanne vastata kutsuun!
+League of Legends -pelaajat, on aikanne liityä pokaalin jahtiin!
 
-Aalto Gamers ylpeänä esittää: League of Legends opiskelijoiden SM-kisat 2023!
+Aalto Gamers ylpeänä esittää: League of Legends opiskelijoiden SM-kisat 2024!
 
-Kerää joukkueesi opiskelijoista tai vastavalmistuneista, kilpaile 2000€ palkintopotista ja LOL OSM-pokaalista!
+Kerää joukkueesi opiskelijoista tai vastavalmistuneista, kilpaile palkintopotista ja LOL OSM-pokaalista!
