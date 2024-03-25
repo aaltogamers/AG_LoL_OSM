@@ -1,12 +1,8 @@
 import React, { useContext } from "react";
-import { LanguageProvider } from "../contexts/Language";
-import Head from "../components/Head";
 import Hero from "../components/Hero";
-import Footer from "../components/Footer";
 import Module from "../components/Module";
 import { graphql, useStaticQuery } from "gatsby";
 import SocialIcons from "../components/SocialIcons";
-import LanguageSelector from "../components/LanguageSelector";
 import { LanguageContext } from "../contexts/Language";
 
 const IndexPage = () => {
@@ -17,6 +13,7 @@ const IndexPage = () => {
         nodes {
           frontmatter {
             title
+            page
             order
           }
           rawMarkdownBody
@@ -25,20 +22,19 @@ const IndexPage = () => {
       }
     }
   `);
+  console.log(langState);
   const modules = modulesData.allMarkdownRemark.nodes
     .map((node) => {
       const content = node.rawMarkdownBody;
       const lang = node.fileAbsolutePath.includes("finnish") ? "fi" : "en";
-      const { title, order } = node.frontmatter;
-      return { content, title, order, lang };
+      const { title, page, order } = node.frontmatter;
+      return { content, title, page, order, lang };
     })
-    .filter(({ lang }) => lang === langState);
+    .filter(({ lang, page }) => lang === langState && page === "index");
   return (
-    <main className="font-barlow bg-darkblue text-white">
-      <Head />
-      <LanguageSelector />
+    <>
       <Hero />
-      <div className="text-center pt-8 px-8 md:px-48 md:text-left">
+      <div className="container mx-auto pt-8 px-8 md:px-48 text-left">
         {modules
           .sort((a, b) => a.order - b.order)
           .map((moduleData) => (
@@ -46,15 +42,8 @@ const IndexPage = () => {
           ))}
         <SocialIcons />
       </div>
-      <Footer />
-    </main>
+    </>
   );
 };
 
-const IndexWithProviders = () => (
-  <LanguageProvider>
-    <IndexPage></IndexPage>
-  </LanguageProvider>
-);
-
-export default IndexWithProviders;
+export default IndexPage;

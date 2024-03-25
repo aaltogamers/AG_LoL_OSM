@@ -38,7 +38,8 @@
     "react-helmet": "^6.1.0",
     "react-icons": "^4.8.0",
     "react-markdown": "^8.0.5",
-    "react-social-icons": "^5.13.0"
+    "react-social-icons": "^5.13.0",
+    "rehype-raw": "^7.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.4",

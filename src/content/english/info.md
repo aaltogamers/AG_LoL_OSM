@@ -1,5 +1,6 @@
 ---
 title: info
+page: "index"
 order: 3
 ---
 
@@ -34,7 +35,7 @@ Both days will be streamed at [twitch.tv/aaltogamers](https://twitch.tv/aaltogam
 
 ### Rules
 
-[Read the rules here](https://docs.google.com/document/d/1waaq1OgqcMJkLjUnUPSOOP2veuxfPzY9/edit?usp=sharing&ouid=105544790108138006577&rtpof=true&sd=true)
+[Read the rules here](/rules)
 
 
 ### Afterparty

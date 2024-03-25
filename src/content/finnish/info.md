@@ -1,5 +1,6 @@
 ---
 title: info
+page: "index"
 order: 3
 ---
 
@@ -34,7 +35,7 @@ Karsinnat ja finaalit streamataan osoitteessa [twitch.tv/aaltogamers](https://tw
 
 ### Säännöt
 
-[Lue säännöt täältä](https://docs.google.com/document/d/1waaq1OgqcMJkLjUnUPSOOP2veuxfPzY9/edit?usp=sharing&ouid=105544790108138006577&rtpof=true&sd=true)
+[Lue säännöt täältä](/rules)
 
 
 ### Jatkot

@@ -1,5 +1,6 @@
 ---
 title: contact
+page: "index"
 order: 4
 ---
 

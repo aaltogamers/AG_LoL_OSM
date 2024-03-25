@@ -3,7 +3,7 @@ import { siteInfo } from "../siteData";
 
 const SocialIcons = () => {
   return (
-    <div className="flex flex-col items-center md:items-start">
+    <div className="flex flex-col items-start">
       {siteInfo.socialMedia.map(({ url, Icon, label }) => (
         <a
           href={url}

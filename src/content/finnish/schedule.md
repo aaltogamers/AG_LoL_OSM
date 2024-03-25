@@ -1,5 +1,6 @@
 ---
 title: schedule
+page: "index"
 order: 2
 ---
 
