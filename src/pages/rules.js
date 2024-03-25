@@ -32,7 +32,7 @@ const Rules = () => {
     })
     .filter(({ lang, page }) => lang === langState && page === "rules");
   return (
-    <div className="container mx-auto pt-8 px-8 md:px-48 text-justify">
+    <div className="container mx-auto pt-8 px-8 md:px-48 md:text-justify text-balance hypens-auto">
       <Link to="/">
         <FaArrowLeft />
       </Link>
