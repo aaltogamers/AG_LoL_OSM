@@ -16,8 +16,7 @@ $qualifiersDate$ $qualifiersStart$ - $qualifiersEnd$ Online
 
 $finalsDate$ $finalsStart$ - $finalsEnd$ Design Factory, Puumiehenkuja 5a, Espoo.  
 4 tiimin single-elimination, paras kolmesta (BO3).  
-Liput finaaliin: [Tulossa pian].  
-Peruslippu on **ilmainen** ja VIP lippu (3 hlö ryhmälle) 30€.
+Finaalipäivän liput julkaistaan 17.4.
 
 ### Serveri
 
@@ -40,5 +39,5 @@ Karsinnat ja finaalit streamataan osoitteessa [twitch.tv/aaltogamers](https://tw
 
 ### Jatkot
 
-Jatkot pidetään [Tulossa pian], ja ne alkavat heti turnauksen päätyttyä (n. $finalsEnd$).  
+Jatkot alkavat heti turnauksen päätyttyä (n. $finalsEnd$).  
 Jatkoille voivat tulla kaikki turnauksen osallistujat (pelaajat, järjestäjät ja katsojat).  

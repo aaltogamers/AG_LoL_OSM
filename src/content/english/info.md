@@ -16,8 +16,7 @@ The top 4 of the bracket advance to the finals
 
 $finalsDate$ $finalsStart$ - $finalsEnd$ at Design Factory, Puumiehenkuja 5a, Espoo.  
 4 team single-elimination, best of 3 (BO3).  
-You can get your ticket to the finals [Coming soon].  
-Basic tickets are **free** and VIP tickets (for a group of 3) are 30€.
+Tickets for the finals day will be released on 17.4
 
 ### Server
 
@@ -40,5 +39,5 @@ Both days will be streamed at [twitch.tv/aaltogamers](https://twitch.tv/aaltogam
 
 ### Afterparty
 
-The afterparty is held at [Coming soon]. It starts right after the main event ends (about $finalsEnd$).  
+The afterparty starts right after the main event ends (about $finalsEnd$).  
 The afterparty is open to all people who attended the event (players, organizers, and spectators).  

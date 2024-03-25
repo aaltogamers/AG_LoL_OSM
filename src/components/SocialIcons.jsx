@@ -8,7 +8,7 @@ const SocialIcons = () => {
         <a
           href={url}
           key={label}
-          className="my-2 text-black hover:text-link flex items-center gap-4"
+          className="my-2 text-link hover:text-link-hover flex items-center gap-4"
         >
           <Icon size={40} /> {label}
         </a>

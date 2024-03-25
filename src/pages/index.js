@@ -22,7 +22,6 @@ const IndexPage = () => {
       }
     }
   `);
-  console.log(langState);
   const modules = modulesData.allMarkdownRemark.nodes
     .map((node) => {
       const content = node.rawMarkdownBody;

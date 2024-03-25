@@ -6,7 +6,7 @@ order: 1
 
 ## Jahti alkakoon
 
-League of Legends -pelaajat, on aikanne liityä pokaalin jahtiin!
+League of Legends -pelaajat, on aikanne liitryä pokaalin jahtiin!
 
 Aalto Gamers ylpeänä esittää: League of Legends opiskelijoiden SM-kisat 2024!
 
