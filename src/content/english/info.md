@@ -16,7 +16,7 @@ The top 4 of the bracket advance to the finals
 
 $finalsDate$ $finalsStart$ - $finalsEnd$ at Design Factory, Puumiehenkuja 5a, Espoo.  
 4 team single-elimination, best of 3 (BO3).  
-Tickets for the finals day will be released on 17.4
+Tickets for the finals day will be released on 17.4.
 
 ### Server
 
@@ -26,7 +26,7 @@ EU West
 
 Both days will be streamed at [twitch.tv/aaltogamers](https://twitch.tv/aaltogamers).
 
-### Prices
+### Prizes
 
 1st place TBD 
 2nd place TBD  
