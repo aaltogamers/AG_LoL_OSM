@@ -5,12 +5,12 @@ const languages = {
 
 const translations = {
   tournamentTitle: {
-    [languages.FI]: "League of Legends Opiskelijoiden SM-kisat 2023",
-    [languages.EN]: "League of Legends Finnish Student Championships 2023",
+    [languages.FI]: "League of Legends Opiskelijoiden SM-kisat 2024",
+    [languages.EN]: "League of Legends Finnish Student Championships 2024",
   },
   tournamentTitleShort: {
-    [languages.FI]: "LoL OSM 2023",
-    [languages.EN]: "LoL FSC 2023",
+    [languages.FI]: "LoL OSM 2024",
+    [languages.EN]: "LoL FSC 2024",
   },
   homePageLink: {
     [languages.FI]: `https://osm.aaltogamers.fi`,
@@ -18,9 +18,9 @@ const translations = {
   },
   siteDescription: {
     [languages.FI]:
-      "Vastaa kutsuun - League of Legendsin opiskelijoiden SM-kisat tulevat 13.-27.5.2023!",
+      "Vastaa kutsuun - League of Legendsin opiskelijoiden SM-kisat tulevat 18.-26.5.2024!",
     [languages.EN]:
-      "Answer the Call - League of Legends Finnish Student Championships are coming on 13.-27.5.2023!",
+      "Answer the Call - League of Legends Finnish Student Championships are coming on 18.-26.5.2024!",
   },
   titles: {
     landingTitle1: {
