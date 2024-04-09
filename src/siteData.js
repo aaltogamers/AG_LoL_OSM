@@ -70,4 +70,5 @@ export const markdownReplacements = {
   qualifiersEnd: "19:00",
   finalsStart: "12:00",
   finalsEnd: "23:00",
+  signUpLink: "https://forms.gle/SbyPrXWqzJwDnS3GA",
 };

@@ -28,15 +28,19 @@ Karsinnat ja finaalit streamataan osoitteessa [twitch.tv/aaltogamers](https://tw
 
 ### Palkinnot
 
-1\. sija TBD  
-2\. sija TBD  
-3\.-4. sija TBD
+1\. sija 800€  
+2\. sija 400€  
+3\.-4. sija 150€
 
 ### Säännöt
 
 [Lue säännöt täältä](/rules)
 
-\* Kaikkien joukkueen pelaajien on oltava korkeakoulu-opiskelijoita tai valmistuneita 01.01.2023 jälkeen
+\* Kaikkien joukkueen pelaajista täytyy olla korkeakouluopiskelijoita suomalaisessa yliopistossa tai ammattikorkeakoulussa. Heidän ei kuidenkaan tarvitse olla samasta koulusta. Myös kaikki 01.01.2023 jälkeen valmistuneet  voivat osallistua.
+
+### Ilmoittautuminen
+
+Ilmoittaminen on auki ja löytyy **[täältä]($signUpLink$)!**
 
 ### Jatkot
 

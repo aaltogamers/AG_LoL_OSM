@@ -28,14 +28,19 @@ Both days will be streamed at [twitch.tv/aaltogamers](https://twitch.tv/aaltogam
 
 ### Prizes
 
-1st place TBD 
-2nd place TBD  
-3-4th place TBD
+1st place 800€ 
+2nd place 400€ 
+3-4th place 150€
 
 ### Rules
 
 [Read the rules here](/rules)  
-\* All players of the team must be students of higher education or have gratuated after 01.01.2023
+
+\* All players in the team must be higher education students in a Finnish University or a University of Applied Sciences. Everyone does **not** need to be from the same school. Exchange and international students in Finland are also eligible to join, as well as people who have graduated after 01.01.2023.
+
+### Sign-up
+
+Sign-ups are open and can be found **[here]($signUpLink$)!**
 
 
 ### Afterparty

@@ -35,7 +35,7 @@ const Hero = () => {
         <div className="md:pt-5 pt-2">
           <h2 className="font-barlow-bold md:mt-8 text-xl lg:text-6xl">{t(translations.titles.landingTitle2)}</h2>
           <h2 className="font-barlow md:pt-4 text-xl lg:text-5xl">
-            &nbsp;{/*1000€ Prize Pool*/}
+            1500€ Prize Pool
           </h2>
         </div>
       </div>
