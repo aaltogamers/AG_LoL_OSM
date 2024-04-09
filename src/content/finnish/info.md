@@ -34,8 +34,9 @@ Karsinnat ja finaalit streamataan osoitteessa [twitch.tv/aaltogamers](https://tw
 
 ### Säännöt
 
-[Lue säännöt täältä](/rules)  
-\* Vuoden 2023 aikana valmistuneet opiskelijat ovat oikeutettuja osallistumaan turnaukseen.
+[Lue säännöt täältä](/rules)
+
+\* Kaikkien joukkueen pelaajien on oltava opiskelijoita tai valmistuneita vuosina 2023-2024.
 
 ### Jatkot
 

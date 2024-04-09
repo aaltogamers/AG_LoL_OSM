@@ -35,7 +35,7 @@ Both days will be streamed at [twitch.tv/aaltogamers](https://twitch.tv/aaltogam
 ### Rules
 
 [Read the rules here](/rules)  
-\* Students who have gratuated during 2023 are eligible to participate in the tournament
+\* All players of the team must be students or have gratuated during they years 2023-2024
 
 
 ### Afterparty
