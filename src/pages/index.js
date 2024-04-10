@@ -4,7 +4,7 @@ import Module from "../components/Module";
 import { graphql, useStaticQuery } from "gatsby";
 import SocialIcons from "../components/SocialIcons";
 import { LanguageContext } from "../contexts/Language";
-
+//
 const IndexPage = () => {
   const [langState] = useContext(LanguageContext);
   const modulesData = useStaticQuery(graphql`
