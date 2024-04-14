@@ -11,7 +11,7 @@ const SponsorList = () => {
         edges {
           node {
             childImageSharp {
-              transformedImageData: gatsbyImageData(
+              oneToneImageData: gatsbyImageData(
                 layout: CONSTRAINED
                 height: 100
                 placeholder: TRACED_SVG
@@ -19,17 +19,20 @@ const SponsorList = () => {
                   duotone: { highlight: "#f7f7f7", shadow: "#f7f7f7" }
                 }
               ),
-              originalImageData: gatsbyImageData(
+              twoToneImageData: gatsbyImageData(
                 layout: CONSTRAINED
                 height: 100
                 placeholder: TRACED_SVG
+                transformOptions: {
+                  duotone: { highlight: "#0A0A0A", shadow: "#f7f7f7" }
+                }
               )
             }
           }
         }
       }
     }
-  `).logos.edges.map((edge) => [edge.node.childImageSharp.transformedImageData, edge.node.childImageSharp.originalImageData]);
+  `).logos.edges.map((edge) => [edge.node.childImageSharp.oneToneImageData, edge.node.childImageSharp.twoToneImageData]);
 
   return (
     <div className="md:mt-10 mt-5 md:px-5 md:pb-5 pb-2 flex items-center self-start flex-wrap">

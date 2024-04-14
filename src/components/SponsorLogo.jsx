@@ -3,8 +3,8 @@ import React from "react";
 
 const SponsorLogo = ({ sponsor, logos }) => {
   const getImageUrl = (logoName) => {
-    const logo = logos.find(([transformedLogo, _]) =>
-      transformedLogo.images.sources.some((source) => source.srcSet.includes(logoName))
+    const logo = logos.find(([oneToneLogo, _]) =>
+      oneToneLogo.images.sources.some((source) => source.srcSet.includes(logoName))
     );
     // Workaround for duotone not working for TTERLogo
     return logo[sponsor.label === "TTER" ? 1 : 0]
