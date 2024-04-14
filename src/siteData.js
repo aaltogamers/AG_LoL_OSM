@@ -44,6 +44,11 @@ export const siteInfo = {
   ],
   sponsors: [
     {
+      label: "TTER",
+      link: "https://tter.ayy.fi/en/tte-fund/",
+      logoName: "tterlogo",
+    },
+    {
       label: "OSM",
       link: "https://www.osmkisat.fi/",
       logoName: "OSM-LOGO",

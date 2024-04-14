@@ -28,7 +28,7 @@ const Hero = () => {
       fluid={imageData}
       className="bg-cover bg-fixed bg-no-repeat bg-center min-h-screen min-w-screen flex flex-col justify-end items-center text-center tracking-widest px-2"
     >
-      <div className="md:mb-0 mb-20 md:bg-none bg-[radial-gradient(closest-side,_var(--tw-gradient-stops))] from-darkblue from-50 to-transparent" >
+      <div className="md:mb-0 md:bg-none bg-[radial-gradient(closest-side,_var(--tw-gradient-stops))] from-darkblue from-50 to-transparent" >
         <h1 className="font-orbitron-black text-4xl lg:text-[7rem]">
           {t(translations.titles.landingTitle1)}
         </h1>
