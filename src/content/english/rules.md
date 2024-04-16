@@ -173,5 +173,5 @@ Teamspeak servers.
   administrators will create the games. Home team/blue side will be responsible for
   creating and supplying the other team with the Prodraft.
 
-Players must adhere to Aalto Gamers [Safer Space Policy](aaltogamers.com/safespace). Players breaking the policy are subject to diciplinary action or disqualification of their team from the tournament.
+Players must adhere to Aalto Gamers [Safer Space Policy](https://aaltogamers.fi/safespace). Players breaking the policy are subject to diciplinary action or disqualification of their team from the tournament.
 &nbsp;
