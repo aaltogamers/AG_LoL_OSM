@@ -16,7 +16,10 @@ The top 4 of the bracket advance to the finals
 
 $finalsDate$ $finalsStart$ - $finalsEnd$ at Design Factory, Puumiehenkuja 5a, Espoo.  
 4 team single-elimination, best of 3 (BO3).  
-Tickets for the finals day will be released on 17.4.
+You can get your ticket to the finals **[here](https://kide.app/events/52662ade-10d0-4863-af06-578036125f7b)**.  
+<lx>Basic tickets are **free**</lx>
+<lx>Supporter tickets include the OSM-patch, **10€**</lx>
+<lx>VIP tickets include a pizza and private couch, **40€**</lx>
 
 ### Server
 

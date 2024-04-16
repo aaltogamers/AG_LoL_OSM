@@ -44,9 +44,17 @@ const LI = ({ children }) => (
 //Custom List type, has to be used with <li> in MD
 const CL = ({ children }) => {
   return (
-    <div className="ml-4 list-inside list-disc" >
+    <ul className="ml-4 list-inside list-disc" >
       {children}
-    </div>
+    </ul>
+  )
+};
+
+const LX = ({ children }) => {
+  return (
+    <li className="list-inside list-disc" >
+      {children}
+    </li>
   )
 };
 
@@ -61,6 +69,7 @@ const Module = ({ moduleData }) => {
     ol: OL,
     li: LI,
     cl: CL,
+    lx: LX,
   };
   const { title } = moduleData;
   var { content } = moduleData;

@@ -16,7 +16,11 @@ $qualifiersDate$ $qualifiersStart$ - $qualifiersEnd$ Online
 
 $finalsDate$ $finalsStart$ - $finalsEnd$ Design Factory, Puumiehenkuja 5a, Espoo.  
 4 tiimin single-elimination, paras kolmesta (BO3).  
-Finaalipäivän liput julkaistaan 17.4.
+Liput finaaliin saa **[täältä](https://kide.app/events/52662ade-10d0-4863-af06-578036125f7b)**.  
+<lx>Peruslippu on **ilmainen**</lx>
+<lx>Kannatuslippu. Sisältää haalarimerkin, **10€**</lx>
+<lx>VIP-lippu. Sisältää pizzan and oman sohvan, **40€**</lx>
+
 
 ### Serveri
 
