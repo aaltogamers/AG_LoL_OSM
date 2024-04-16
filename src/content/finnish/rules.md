@@ -201,4 +201,6 @@ finaalipäivänä, jos käytössä on Riot Games Tournament Realm.
 luovat peliaulat. Kotijoukkue/blue side on vastuussa Prodraftin luomisesta ja
 jakamisesta toiselle joukkueelle.
 
+Pelaajien on noudatettava Aalto Gamersin [safer space linjausta](aaltogamers.com/safespace). Käytäntöä rikkovia pelaajia vastaan voidaan ryhtyä kurinpitotoimiin tai heidän joukkueensa hylätään turnauksesta.turnauksesta. 
+
 &nbsp;
