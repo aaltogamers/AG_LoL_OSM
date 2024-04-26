@@ -9,7 +9,7 @@ order: 3
 ### Karsinnat
 
 $qualifiersDate$ $qualifiersStart$ - $qualifiersEnd$ Online  
-16 tiimin double-elimination, paras yhdestä (BO1).  
+Jopa 32 tiimin double-elimination, paras yhdestä (BO1).  
 4 parasta tiimiä etenevät finaaliin
 
 ### Finaalit

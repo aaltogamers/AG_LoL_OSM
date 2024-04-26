@@ -9,7 +9,7 @@ order: 3
 ### Qualifiers
 
 $qualifiersDate$ $qualifiersStart$ - $qualifiersEnd$ Online  
-16 team double-elimination, best of 1 (BO1).  
+Up to 32 team double-elimination, best of 1 (BO1).  
 The top 4 of the bracket advance to the finals
 
 ### Finals
