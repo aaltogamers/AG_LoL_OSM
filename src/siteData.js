@@ -63,6 +63,11 @@ export const siteInfo = {
       link: "https://www.lenovo.com/us/en/legion/",
       logoName: "legion",
     },
+    {
+      label: "ED",
+      link: "https://www.edenergydrink.fi/",
+      logoName: "EDlogo",
+    },
   ],
 };
 

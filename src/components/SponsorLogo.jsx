@@ -7,6 +7,7 @@ const SponsorLogo = ({ sponsor, logos }) => {
       oneToneLogo.images.sources.some((source) => source.srcSet.includes(logoName))
     );
     // Workaround for duotone not working for TTERLogo
+    console.log(logo)
     return logo[sponsor.label === "TTER" ? 1 : 0]
   };
 
