@@ -10,7 +10,11 @@ order: 3
 
 $qualifiersDate$ $qualifiersStart$ - $qualifiersEnd$ Online  
 Jopa 32 tiimin double-elimination, paras yhdestä (BO1).  
-4 parasta tiimiä etenevät finaaliin
+4 parasta tiimiä etenivät finaaliin:  
+**Apinoiden Planeetta**,  
+**Huutis Gaming**,  
+**Game-Breaking Bug**  
+**Viva la J.M.P**
 
 ### Finaalit
 
@@ -19,7 +23,7 @@ $finalsDate$ $finalsStart$ - $finalsEnd$ Design Factory, Puumiehenkuja 5a, Espoo
 Liput finaaliin saa **[täältä](https://kide.app/events/52662ade-10d0-4863-af06-578036125f7b)**.  
 <lx>Peruslippu on **ilmainen**</lx>
 <lx>Kannatuslippu. Sisältää haalarimerkin, **10€**</lx>
-<lx>VIP-lippu. Sisältää pizzan and oman sohvan, **40€**</lx>
+<lx>VIP-lippu. Sisältää 2 pizzaa and oman sohvan, **40€**</lx>
 
 
 ### Serveri
@@ -40,11 +44,7 @@ Karsinnat ja finaalit streamataan osoitteessa [twitch.tv/aaltogamers](https://tw
 
 [Lue säännöt täältä](/rules)
 
-\* Kaikkien joukkueen pelaajista täytyy olla korkeakouluopiskelijoita suomalaisessa yliopistossa tai ammattikorkeakoulussa. Heidän ei kuidenkaan tarvitse olla samasta koulusta. Myös kaikki 01.01.2023 jälkeen valmistuneet  voivat osallistua.
-
-### Ilmoittautuminen
-
-Ilmoittaminen on auki ja löytyy **[täältä]($signUpLink$)!**
+\* Kaikkien joukkueen pelaajien täytyy olla korkeakouluopiskelijoita suomalaisessa yliopistossa tai ammattikorkeakoulussa. Heidän ei kuidenkaan tarvitse olla samasta koulusta. Myös kaikki 01.01.2023 jälkeen valmistuneet  voivat osallistua.
 
 ### Jatkot
 
