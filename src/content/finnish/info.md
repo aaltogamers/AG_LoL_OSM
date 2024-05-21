@@ -48,5 +48,5 @@ Karsinnat ja finaalit streamataan osoitteessa [twitch.tv/aaltogamers](https://tw
 
 ### Jatkot
 
-Jatkot alkavat heti turnauksen päätyttyä (n. $finalsEnd$).  
+Jatkot alkavat heti turnauksen päätyttyä (n. $finalsEnd$) Otaniemessä Otakaari 20:ssä, kävelymatkan päässä finaalipaikasta. Jatkoilla on palju, sauna, beer pongia, karaokea ja muuta kivaa, joten ota mukaan uima-asu ja pyyhe, mikäli haluat kylpeä.
 Jatkoille voivat tulla kaikki turnauksen osallistujat (pelaajat, järjestäjät ja katsojat).  
