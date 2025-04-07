@@ -7,7 +7,7 @@ import LanguageSelector from "../components/LanguageSelector";
 export default function Layout({ children }) {
     return (
         <LanguageProvider>
-            <main className="font-barlow bg-darkblue text-white">
+            <main className="font-barlow bg-darkred text-white">
                 <Head />
                 <LanguageSelector />
                 {children}
