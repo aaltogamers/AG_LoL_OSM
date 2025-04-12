@@ -6,7 +6,7 @@ module.exports = {
         black: "#212428",
         darkblue: "#060d16",
         link: "#E0BA9E",
-        "link-hover": "#E0BA9E",
+        "link-hover": "#ad8f79",
         white: "#f7f7f7",
         darkred: "#371D1E",
 

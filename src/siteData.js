@@ -69,7 +69,7 @@ export const siteInfo = {
       logoName: "legion",
     },
     {
-      label: "TTER",
+      label: "TTERWhite", // Change to "TTER" if this needs to be black
       link: "https://tter.ayy.fi/en/tte-fund/",
       logoName: "tterlogo",
     },    
@@ -78,11 +78,13 @@ export const siteInfo = {
       link: "https://www.caveentertainment.fi/",
       logoName: "Cave_entertainment_logo",
     },
+    /* TODO: Uncomment once deal is official
     {
       label: "Monster",
       link: "https://www.monsterenergy.com/fi-fi/",
       logoName: "monsterlogo",
     },
+    */
   ],
 };
 
@@ -95,7 +97,8 @@ export const markdownReplacements = {
   qualifiersEnd: "19:00",
   finalsStart: "12:00",
   finalsEnd: "23:00",
-  signUpLink: "https://forms.gle/SbyPrXWqzJwDnS3GA",
+  signUpLink: "https://forms.gle/SbyPrXWqzJwDnS3GA", // TODO: Update once new link is available
+  ticketLink: "https://kide.app/events/52662ade-10d0-4863-af06-578036125f7b", // TODO: Update once new link is available
   firstPrize: "500",
   secondPrize: "250",
   thirdPrize: "125"

@@ -16,10 +16,10 @@ Jopa 32 tiimin double-elimination, paras yhdestä (BO1).
 
 $finalsDate$ $finalsStart$ - $finalsEnd$ Design Factory, Puumiehenkuja 5a, Espoo.  
 4 tiimin single-elimination, paras kolmesta (BO3).  
-Liput finaaliin saa **[täältä](https://kide.app/events/52662ade-10d0-4863-af06-578036125f7b)**.  
+Lipunmyynti alkaa 19.04. liput finaaliin saa **[täältä]($ticketLink$)**.  
 <lx>Peruslippu on **ilmainen**</lx>
-<lx>Kannatuslippu. Sisältää haalarimerkin, **10€**</lx>
-<lx>VIP-lippu. Sisältää 2 pizzaa and oman sohvan, **40€**</lx>
+<lx>Haalarimerkkilippu. Sisältää OSM-haalarimerkin, **3€**</lx>
+<lx>Kannatuslippu. Sisältää OSM-haalarimerkin, **10€**</lx>
 
 
 ### Serveri
