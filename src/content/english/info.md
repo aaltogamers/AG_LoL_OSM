@@ -42,7 +42,12 @@ Both days will be streamed at [twitch.tv/aaltogamers](https://twitch.tv/aaltogam
 \* All players in the team must be higher education students in a Finnish University or a University of Applied Sciences. Everyone does **not** need to be from the same school. Exchange and international students in Finland are also eligible to join, as well as people who have graduated after 01.01.2024.
 
 
+
+### Sign-up
+
+Sign-ups are open and can be found **[here]($signUpLink$)!**
+
 ### Afterparty
 
-The afterparty starts right after the main event ends (about $finalsEnd$) in Otaniemi Rantasauna at Vastaranta 1, a walking distance from the finals venue. There will be a hot tub, sauna, beer pong, karaoke and other activities, so bring swimwear and a towel if you wish to bathe.
+The afterparty starts right after the main event ends (about $finalsEnd$) in Otaniemi Rantasauna at Vastaranta 1, a walking distance from the finals venue. There will be a hot tub, sauna, beer pong and other activities, so bring swimwear and a towel if you wish to bathe.
 The afterparty is open to all people who attended the event (players, organizers, and spectators).

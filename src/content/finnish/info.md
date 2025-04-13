@@ -42,7 +42,12 @@ Karsinnat ja finaalit streamataan osoitteessa [twitch.tv/aaltogamers](https://tw
 
 \* Kaikkien joukkueen pelaajien täytyy olla korkeakouluopiskelijoita suomalaisessa yliopistossa tai ammattikorkeakoulussa. Heidän ei kuidenkaan tarvitse olla samasta koulusta. Myös kaikki 01.01.2024 jälkeen valmistuneet  voivat osallistua.
 
+
+### Ilmoittautuminen
+
+Ilmoittaminen on auki ja löytyy **[täältä]($signUpLink$)!**
+
 ### Jatkot
 
-Jatkot alkavat heti turnauksen päätyttyä (n. $finalsEnd$) Otaniemen Rantasaunassa, Vastaranta 1:ssä, kävelymatkan päässä finaalipaikasta. Jatkoilla on palju, sauna, beer pongia, karaokea ja muuta kivaa, joten ota mukaan uima-asu ja pyyhe, mikäli haluat kylpeä.
+Jatkot alkavat heti turnauksen päätyttyä (n. $finalsEnd$) Otaniemen Rantasaunassa, Vastaranta 1:ssä, kävelymatkan päässä finaalipaikasta. Jatkoilla on palju, sauna, beer pongia ja muuta kivaa, joten ota mukaan uima-asu ja pyyhe, mikäli haluat kylpeä.
 Jatkoille voivat tulla kaikki turnauksen osallistujat (pelaajat, järjestäjät ja katsojat).
