@@ -5,11 +5,11 @@ import rehypeRaw from 'rehype-raw'
 import { Link } from "gatsby";
 
 const H2 = ({ children }) => (
-  <h2 className="text-3xl md:text-5xl font-orbitron-black mb-8 uppercase">{children}</h2>
+  <h2 className="text-3xl md:text-5xl font-outfit-bold mb-8 uppercase">{children}</h2>
 );
 
 const H3 = ({ children }) => (
-  <h2 className="text-xl font-barlow-bold mb-2">{children}</h2>
+  <h2 className="text-xl font-outfit-bold mb-2">{children}</h2>
 );
 
 const P = ({ children }) => <p className="mb-8">{children}</p>;

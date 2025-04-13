@@ -195,10 +195,10 @@ scouttaamista varten.
 turnauksen online-vaiheessa. Turnauksen offline-vaiheessa, eli finaaleissa,
 valmentaja voi kommunikoida pelaajien kanssa pelien välissä ja pick/ban -vaiheen
 aikana.
-- 2.4.1: Draftlol-sivun ([https://draftlol.dawe.gg/](https://draftlol.dawe.gg/)) käyttö on pakollista, paitsi
+- 2.4.1: Drafter.lol-sivun ([https://drafter.lol/](https://drafter.lol/)) käyttö on pakollista, paitsi
 finaalipäivänä, jos käytössä on Riot Games Tournament Realm.
 - 2.7: Yläpuolella bracketissä oleva joukkue on kotijoukkue/blue side. Pelin valvojat
-luovat peliaulat. Kotijoukkue/blue side on vastuussa Prodraftin luomisesta ja
+luovat peliaulat. Kotijoukkue/blue side on vastuussa Drafter.lolin luomisesta ja
 jakamisesta toiselle joukkueelle.
 
 Pelaajien on noudatettava Aalto Gamersin [safer space linjausta](https://aaltogamers.fi/safespace). Käytäntöä rikkovia pelaajia vastaan voidaan ryhtyä kurinpitotoimiin tai heidän joukkueensa hylätään turnauksesta.turnauksesta. 

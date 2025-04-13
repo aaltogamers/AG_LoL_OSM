@@ -18,4 +18,15 @@
   font-family: "Orbitron Black";
   src: url("../fonts/Orbitron-Black.ttf");
 }
-
+@font-face {
+  font-family: "Space Grotesk Regular";
+  src: url("../fonts/SpaceGrotesk-Regular.ttf");
+}
+@font-face {
+  font-family: "Outfit Bold";
+  src: url("../fonts/Outfit-Bold.ttf");
+}
+@font-face {
+  font-family: "Outfit Regular";
+  src: url("../fonts/Outfit-Regular.ttf");
+}

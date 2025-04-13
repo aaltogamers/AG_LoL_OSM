@@ -168,10 +168,11 @@ Teamspeak servers.
   - 1.10: The coach may communicate with the team at all times during online play.
   Whilst games are offline / in-person, the coach may communicate with the players
   between games and during the pick / ban phase.
-  - 2.4.1: Use of Prodraft is mandatory.
+  - 2.4.1: Use of Drafter.lol ([https://drafter.lol/](https://drafter.lol/))
+  is mandatory except on the final day if Riot Games Tournament Realm is used.
   - 2.7: The team at the top of the bracket will be the home team/blue side. The game
   administrators will create the games. Home team/blue side will be responsible for
-  creating and supplying the other team with the Prodraft.
+  creating and supplying the other team with the Drafter.lol.
 
 Players must adhere to Aalto Gamers [Safer Space Policy](https://aaltogamers.fi/safespace). Players breaking the policy are subject to diciplinary action or disqualification of their team from the tournament.
 &nbsp;
