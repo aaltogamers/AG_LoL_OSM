@@ -98,7 +98,7 @@ export const markdownReplacements = {
   finalsStart: "12:00",
   finalsEnd: "23:00",
   signUpLink: "https://forms.gle/kUEEqGchkA1JepYd6",
-  ticketLink: "https://kide.app/events/52662ade-10d0-4863-af06-578036125f7b", // TODO: Update once new link is available
+  ticketLink: "https://kide.app/events/bebd5407-6832-4493-9068-c1066d0da262",
   firstPrize: "500",
   secondPrize: "250",
   thirdPrize: "125"
