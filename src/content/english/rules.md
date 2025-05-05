@@ -168,6 +168,9 @@ Teamspeak servers.
   - 1.10: The coach may communicate with the team at all times during online play.
   Whilst games are offline / in-person, the coach may communicate with the players
   between games and during the pick / ban phase.
+  - 2.1: In the semi-finals and finals games (Bo3), a Hard Fearless Draft is used,
+  which means that all characters played in the previous games of the same series
+  are not available in the following games of the series.
   - 2.4.1: Use of Drafter.lol ([https://drafter.lol/](https://drafter.lol/))
   is mandatory except on the final day if Riot Games Tournament Realm is used.
   - 2.7: The team at the top of the bracket will be the home team/blue side. The game

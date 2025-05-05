@@ -195,6 +195,9 @@ scouttaamista varten.
 turnauksen online-vaiheessa. Turnauksen offline-vaiheessa, eli finaaleissa,
 valmentaja voi kommunikoida pelaajien kanssa pelien välissä ja pick/ban -vaiheen
 aikana.
+- 2.1: Semifinaalien ja finaalien peleissä (Bo3) on käytössä Hard Fearless Draft,
+joka tarkoittaa, että kaikki saman sarjan edeltävissä peleissä pelatut hahmot ovat poissa käytöstä 
+sarjan seuraavissa peleissä.
 - 2.4.1: Drafter.lol-sivun ([https://drafter.lol/](https://drafter.lol/)) käyttö on pakollista, paitsi
 finaalipäivänä, jos käytössä on Riot Games Tournament Realm.
 - 2.7: Yläpuolella bracketissä oleva joukkue on kotijoukkue/blue side. Pelin valvojat
