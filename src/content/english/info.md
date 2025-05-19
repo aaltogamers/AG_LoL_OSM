@@ -10,7 +10,11 @@ order: 3
 
 $qualifiersDate$ $qualifiersStart$ - $qualifiersEnd$ Online  
 Up to 32 team double-elimination, best of 1 (BO1).  
-The top 4 of the bracket will advance to the finals
+The top 4 of the bracket advanced to the finals  
+**Fem (5) Boys**  
+**Levikset repee**  
+**Concertapossut**  
+**Viva la JM.P**
 
 ### Finals
 
@@ -41,11 +45,6 @@ Both days will be streamed at [twitch.tv/aaltogamers](https://twitch.tv/aaltogam
 
 \* All players in the team must be higher education students in a Finnish University or a University of Applied Sciences. Everyone does **not** need to be from the same school. Exchange and international students in Finland are also eligible to join, as well as people who have graduated after 01.01.2024.
 
-
-
-### Sign-up
-
-Sign-ups are open and can be found **[here]($signUpLink$)!**
 
 ### Afterparty
 

@@ -10,7 +10,11 @@ order: 3
 
 $qualifiersDate$ $qualifiersStart$ - $qualifiersEnd$ Online  
 Jopa 32 tiimin double-elimination, paras yhdestä (BO1).  
-4 parasta tiimiä etenevät finaaliin:  
+4 parasta tiimiä etenivät finaaliin:  
+**Fem (5) Boys**  
+**Levikset repee**  
+**Concertapossut**  
+**Viva la JM.P**
 
 ### Finaalit
 
@@ -41,11 +45,6 @@ Karsinnat ja finaalit streamataan osoitteessa [twitch.tv/aaltogamers](https://tw
 [Lue säännöt täältä](/rules)
 
 \* Kaikkien joukkueen pelaajien täytyy olla korkeakouluopiskelijoita suomalaisessa yliopistossa tai ammattikorkeakoulussa. Heidän ei kuidenkaan tarvitse olla samasta koulusta. Myös kaikki 01.01.2024 jälkeen valmistuneet  voivat osallistua.
-
-
-### Ilmoittautuminen
-
-Ilmoittaminen on auki ja löytyy **[täältä]($signUpLink$)!**
 
 ### Jatkot
 
