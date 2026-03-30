@@ -4,10 +4,10 @@ page: "index"
 order: 1
 ---
 
-## Todista vahvuutesi
+## Todista urheutesi
 
-League of Legends -pelaajat, on aika liittyä taisteluun ja todistaa itsesi!
+Arvoisat League of Legends -pelaajat, on aika tarttua aseisiin ja todistaa arvonne!
 
-Aalto Gamers ylpeänä esittää: League of Legends opiskelijoiden SM-kisat 2026!
+Aalto Gamers ylpeänä esittää vuoden 2026 League of Legendsin opiskelijoiden SM-kisat!
 
-Kerää joukkueesi opiskelijoista tai vastavalmistuneista\*, kilpaile palkintopotista ja League of Legends OSM-pokaalista!
+Kokoa joukkueesi opiskelijoita ja vastavalmistuneita\*, taistele 1000 € palkintopotista ja puolusta kunniaasi voittamalla League of Legendsin OSM-pokaali!

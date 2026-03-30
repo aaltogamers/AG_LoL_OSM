@@ -4,10 +4,12 @@ page: "index"
 order: 1
 ---
 
-## Prove your strength
+## Prove Your Resolve
 
-Dear League of Legends players, it’s time to join the fight and prove yourself!
+Honorable League of Legends players, it’s time to take up arms and prove your worth!
 
 Aalto Gamers proudly presents the League of Legends Finnish Student Championships 2026!
 
-Gather your team of students or recent graduates\* and compete for a prize pool and the glory of hoisting the League of Legends OSM cup!
+Gather your vanguard of students or recent graduates\* and
+fight for a prize pool of 1000€ and the glory of hoisting the League of Legends
+OSM cup!
