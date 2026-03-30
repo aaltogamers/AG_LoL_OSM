@@ -18,7 +18,7 @@ const SponsorList = () => {
                 transformOptions: {
                   duotone: { highlight: "#f7f7f7", shadow: "#f7f7f7" }
                 }
-              ),
+              )
               twoToneImageData: gatsbyImageData(
                 layout: CONSTRAINED
                 height: 100
@@ -32,10 +32,13 @@ const SponsorList = () => {
         }
       }
     }
-  `).logos.edges.map((edge) => [edge.node.childImageSharp.oneToneImageData, edge.node.childImageSharp.twoToneImageData]);
+  `).logos.edges.map((edge) => [
+    edge.node.childImageSharp.oneToneImageData,
+    edge.node.childImageSharp.twoToneImageData,
+  ]);
 
   return (
-    <div className="md:mt-10 mt-5 md:px-5 md:pb-5 pb-2 flex items-center self-start flex-wrap">
+    <div className="md:mt-10 mt-5 md:px-5 md:pb-5 pb-2 flex items-center self-start flex-wrap justify-center">
       {siteInfo.sponsors.map((sponsor) => (
         <SponsorLogo
           sponsor={sponsor}
