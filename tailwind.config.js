@@ -3,8 +3,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        link: "#E0BA9E",
-        "link-hover": "#ad8f79",
+        link: "#EFBF04",
+        "link-hover": "#8f740b",
         white: "#F7F7F7",
         dark: "#2B3B57",
       },
