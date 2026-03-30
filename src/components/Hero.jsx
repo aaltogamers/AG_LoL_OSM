@@ -33,8 +33,8 @@ const Hero = () => {
         }}
       ></div>
 
-      <div className="md:mb-0 z-10">
-        <h1 className="font-outfit-bold text-5xl lg:text-8xl [text-shadow:_2px_4px_4px_rgb(255_255_255_/_40%)]">
+      <div className="xl:mb-20 z-10">
+        <h1 className="font-outfit-bold text-5xl lg:text-9xl [text-shadow:_2px_4px_4px_rgb(255_255_255_/_40%)]">
           {t(translations.titles.landingTitle1)}
         </h1>
         <div className="pt-2">
