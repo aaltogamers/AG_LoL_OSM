@@ -8,6 +8,6 @@ order: 1
 
 League of Legends -pelaajat, on aika liittyä taisteluun ja todistaa itsesi!
 
-Aalto Gamers ylpeänä esittää: League of Legends opiskelijoiden SM-kisat 2025!
+Aalto Gamers ylpeänä esittää: League of Legends opiskelijoiden SM-kisat 2026!
 
-Kerää joukkueesi opiskelijoista tai vastavalmistuneista*, kilpaile palkintopotista ja League of Legends OSM-pokaalista!
+Kerää joukkueesi opiskelijoista tai vastavalmistuneista\*, kilpaile palkintopotista ja League of Legends OSM-pokaalista!

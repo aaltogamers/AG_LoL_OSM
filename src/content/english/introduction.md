@@ -8,6 +8,6 @@ order: 1
 
 Dear League of Legends players, it’s time to join the fight and prove yourself!
 
-Aalto Gamers proudly presents the League of Legends Finnish Student Championships 2025!
+Aalto Gamers proudly presents the League of Legends Finnish Student Championships 2026!
 
-Gather your team of students or recent graduates* and compete for a prize pool and the glory of hoisting the League of Legends OSM cup!
+Gather your team of students or recent graduates\* and compete for a prize pool and the glory of hoisting the League of Legends OSM cup!

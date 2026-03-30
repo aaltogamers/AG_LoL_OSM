@@ -9,7 +9,6 @@ module.exports = {
         "link-hover": "#ad8f79",
         white: "#f7f7f7",
         darkred: "#371D1E",
-
       },
       fontFamily: {
         barlow: "Barlow Regular",
@@ -18,7 +17,7 @@ module.exports = {
         "orbitron-black": "Orbitron Black",
         "outfit-bold": "Outfit Bold",
         "outfit-regular": "Outfit Regular",
-        "space-grotesk-regular": "Space Grotesk Regular"
+        "space-grotesk-regular": "Space Grotesk Regular",
       },
       backgroundPosition: {
         "right-offset": "center right -28rem",

@@ -10,17 +10,13 @@ order: 3
 
 $qualifiersDate$ $qualifiersStart$ - $qualifiersEnd$ Online  
 Up to 32 team double-elimination, best of 1 (BO1).  
-The top 4 of the bracket advanced to the finals  
-**Fem (5) Boys**  
-**Levikset repee**  
-**Concertapossut**  
-**Viva la JM.P**
+The top 4 teams of the bracket will advance to the finals
 
 ### Finals
 
 $finalsDate$ $finalsStart$ - $finalsEnd$ at Design Factory, Puumiehenkuja 5a, Espoo.  
 4 team single-elimination, best of 3 (BO3).  
-You can get your ticket to the finals **[here]($ticketLink$)**.  
+Tickets to the finals will be available soon
 <lx>Basic tickets are **free**</lx>
 <lx>Patch tickets include the OSM patch, **3€**</lx>
 <lx>Supporter tickets include the OSM-patch, **10€**</lx>
@@ -41,12 +37,12 @@ Both days will be streamed at [twitch.tv/aaltogamers](https://twitch.tv/aaltogam
 
 ### Rules
 
-[Read the rules here](/rules)  
+[Read the rules here](/rules)
 
-\* All players in the team must be higher education students in a Finnish University or a University of Applied Sciences. Everyone does **not** need to be from the same school. Exchange and international students in Finland are also eligible to join, as well as people who have graduated after 01.01.2024.
-
+\* All players in the team must be higher education students in a Finnish University or a University of Applied Sciences. Everyone does **not** need to be from the same school. Exchange and international students in Finland are also eligible to join, as well as people who have graduated after $earliestGraduationDate$.
 
 ### Afterparty
 
-The afterparty starts right after the main event ends (about $finalsEnd$) in Otaniemi Rantasauna at Vastaranta 1, a walking distance from the finals venue. There will be a hot tub, sauna, beer pong and other activities, so bring swimwear and a towel if you wish to bathe.
+The afterparty starts right after the main event ends (about $finalsEnd$) at Otakaari 20 downstairs even space, a walking distance from the finals venue. There will be a hot tub, sauna, beer pong and other activities, so bring swimwear and a towel if you wish to go to the sauna or palju.
+
 The afterparty is open to all people who attended the event (players, organizers, and spectators).

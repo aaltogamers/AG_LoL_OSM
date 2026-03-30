@@ -9,22 +9,17 @@ order: 3
 ### Karsinnat
 
 $qualifiersDate$ $qualifiersStart$ - $qualifiersEnd$ Online  
-Jopa 32 tiimin double-elimination, paras yhdestä (BO1).  
-4 parasta tiimiä etenivät finaaliin:  
-**Fem (5) Boys**  
-**Levikset repee**  
-**Concertapossut**  
-**Viva la JM.P**
+Max 32 tiimin double-elimination, paras yhdestä (BO1).  
+4 parasta tiimiä etenevät finaaliin
 
 ### Finaalit
 
 $finalsDate$ $finalsStart$ - $finalsEnd$ Design Factory, Puumiehenkuja 5a, Espoo.  
 4 tiimin single-elimination, paras kolmesta (BO3).  
-Liput finaaliin saa **[täältä]($ticketLink$)**.  
+Liput finaaliin saatavissa pian
 <lx>Peruslippu on **ilmainen**</lx>
 <lx>Haalarimerkkilippu. Sisältää OSM-haalarimerkin, **3€**</lx>
 <lx>Kannatuslippu. Sisältää OSM-haalarimerkin, **10€**</lx>
-
 
 ### Serveri
 
@@ -44,9 +39,10 @@ Karsinnat ja finaalit streamataan osoitteessa [twitch.tv/aaltogamers](https://tw
 
 [Lue säännöt täältä](/rules)
 
-\* Kaikkien joukkueen pelaajien täytyy olla korkeakouluopiskelijoita suomalaisessa yliopistossa tai ammattikorkeakoulussa. Heidän ei kuidenkaan tarvitse olla samasta koulusta. Myös kaikki 01.01.2024 jälkeen valmistuneet  voivat osallistua.
+\* Kaikkien joukkueen pelaajien täytyy olla korkeakouluopiskelijoita suomalaisessa yliopistossa tai ammattikorkeakoulussa. Heidän ei kuidenkaan tarvitse olla samasta koulusta. Myös kaikki $earliestGraduationDate$ jälkeen valmistuneet voivat osallistua.
 
 ### Jatkot
 
-Jatkot alkavat heti turnauksen päätyttyä (n. $finalsEnd$) Otaniemen Rantasaunassa, Vastaranta 1:ssä, kävelymatkan päässä finaalipaikasta. Jatkoilla on palju, sauna, beer pongia ja muuta kivaa, joten ota mukaan uima-asu ja pyyhe, mikäli haluat kylpeä.
+Jatkot alkavat heti turnauksen päätyttyä (n. $finalsEnd$) Otakaari 20 alakerran juhlatilassa, kävelymatkan päässä finaalipaikasta. Jatkoilla on palju, sauna, beer pongia ja muuta kivaa, joten ota mukaan uima-asu ja pyyhe, mikäli haluat saunoa tai kylpeä.
+
 Jatkoille voivat tulla kaikki turnauksen osallistujat (pelaajat, järjestäjät ja katsojat).

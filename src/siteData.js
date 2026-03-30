@@ -17,11 +17,6 @@ export const siteInfo = {
   domain: translations.homePageLink,
   socialMedia: [
     {
-      label: "Instagram",
-      url: "https://aaltogamers.fi/link/instagram?ref=osmwebsite",
-      Icon: FaInstagram,
-    },
-    {
       label: "Telegram",
       url: "https://aaltogamers.fi/link/telegram?ref=osmwebsite",
       Icon: FaTelegram,
@@ -30,6 +25,11 @@ export const siteInfo = {
       label: "Discord",
       url: "https://aaltogamers.fi/link/discord?ref=osmwebsite",
       Icon: FaDiscord,
+    },
+    {
+      label: "Instagram",
+      url: "https://aaltogamers.fi/link/instagram?ref=osmwebsite",
+      Icon: FaInstagram,
     },
     {
       label: "Twitch",
@@ -59,47 +59,31 @@ export const siteInfo = {
       logoName: "espoologo",
     },
     {
-      label: "Eduix",
-      link: "https://www.eduix.fi/",
-      logoName: "eduixlogo",
-    },
-    {
       label: "Lenovo",
       link: "https://www.lenovo.com/us/en/legion/",
       logoName: "legion",
     },
     {
-      label: "TTERWhite", // Change to "TTER" if this needs to be black
-      link: "https://tter.ayy.fi/en/tte-fund/",
-      logoName: "tterlogo",
-    },    
-    {
-      label: "Cave Entertainment",
-      link: "https://www.caveentertainment.fi/",
-      logoName: "Cave_entertainment_logo",
-    },
-    /* TODO: Uncomment once deal is official
-    {
       label: "Monster",
       link: "https://www.monsterenergy.com/fi-fi/",
       logoName: "monsterlogo",
     },
-    */
   ],
 };
 
 export const markdownReplacements = {
-  registrationStartDate: "14.04.",
-  registrationEndDate: "11.05.",
-  qualifiersDate: "17.05.",
-  finalsDate: "24.05.",
+  registrationStartDate: "13.04.",
+  registrationEndDate: "10.05.",
+  qualifiersDate: "16.05.",
+  finalsDate: "23.05.",
   qualifiersStart: "12:00",
   qualifiersEnd: "19:00",
   finalsStart: "12:00",
   finalsEnd: "23:00",
-  signUpLink: "https://forms.gle/kUEEqGchkA1JepYd6",
-  ticketLink: "https://kide.app/events/bebd5407-6832-4493-9068-c1066d0da262",
+  signUpLink: "", // TODO
+  ticketLink: "", // TODO
   firstPrize: "500",
   secondPrize: "250",
-  thirdPrize: "125"
+  thirdPrize: "125",
+  earliestGraduationDate: "01.01.2025",
 };
