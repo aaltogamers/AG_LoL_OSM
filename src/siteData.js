@@ -72,7 +72,7 @@ export const siteInfo = {
 };
 
 export const markdownReplacements = {
-  registrationStartDate: "13.04.",
+  registrationStartDate: "16.04.",
   registrationEndDate: "10.05.",
   qualifiersDate: "16.05.",
   finalsDate: "23.05.",
@@ -80,7 +80,8 @@ export const markdownReplacements = {
   qualifiersEnd: "19:00",
   finalsStart: "12:00",
   finalsEnd: "23:00",
-  signUpLink: "", // TODO
+  signUpLink:
+    "https://docs.google.com/forms/d/e/1FAIpQLSey7mWrfU4sW1mbKEYbHhLMAdnm8ClkFBtbfEHuc9j0BpysBQ/viewform?usp=dialog",
   ticketLink: "", // TODO
   firstPrize: "500",
   secondPrize: "250",

@@ -43,6 +43,6 @@ Both days will be streamed at [twitch.tv/aaltogamers](https://twitch.tv/aaltogam
 
 ### Afterparty
 
-The afterparty starts right after the main event ends (about $finalsEnd$) at Otakaari 20 downstairs even space, a walking distance from the finals venue. There will be a hot tub, sauna, beer pong and other activities, so bring swimwear and a towel if you wish to go to the sauna or palju.
+The afterparty starts right after the main event ends (about $finalsEnd$) at Otakaari 20 downstairs event space, a walking distance from the finals venue. There will be a hot tub, sauna, beer pong and other activities, so bring swimwear and a towel if you wish to go to the sauna or palju.
 
 The afterparty is open to all people who attended the event (players, organizers, and spectators).
