@@ -9,7 +9,7 @@ import {
 
 export const siteInfo = {
   timezone: "Europe/Helsinki",
-  defaultLocale: languages.FI,
+  defaultLocale: languages.EN,
   title: translations.tournamentTitle,
   shortTitle: translations.tournamentTitleShort,
   description: translations.siteDescription,

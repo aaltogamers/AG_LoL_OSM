@@ -1,22 +1,20 @@
 import React, { useContext } from "react";
 import { languages } from "../translations.js";
-import { LanguageContext } from "../contexts/Language";
-import { getUserLocales } from "get-user-locale";
+import {
+  LanguageContext,
+  LANGUAGE_STORAGE_KEY,
+} from "../contexts/Language";
 
 const LanguageSelector = () => {
   const [langState, dispatch] = useContext(LanguageContext);
-  const userLocales = getUserLocales();
   const setLanguageTo = (langString) => {
     dispatch({ type: "set_language", value: langString });
+    try {
+      localStorage.setItem(LANGUAGE_STORAGE_KEY, langString);
+    } catch {
+      /* ignore */
+    }
   };
-  if (langState) {
-  } else if (
-    userLocales.find((locale) => locale.toLowerCase().includes(languages.FI))
-  ) {
-    setLanguageTo(languages.FI);
-  } else {
-    setLanguageTo(languages.EN);
-  }
   return (
     <div className="justify-between font-barlow fixed right-0 top-0 z-10">
       {Object.entries(languages).map(([key, langString]) => (
