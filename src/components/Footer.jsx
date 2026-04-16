@@ -23,8 +23,8 @@ const FooterModule = () => {
   const t = (translation) => translate(translation, langState);
 
   return (
-    <div className="bg-center min-w-screen min-h-10 p-5 flex flex-col items-center">
-      <div className="text-gray-700">{t(moduleTranslations)}</div>
+    <div className="bg-center min-w-screen min-h-10 p-5 flex flex-col items-center opacity-50">
+      <div>{t(moduleTranslations)}</div>
     </div>
   );
 };

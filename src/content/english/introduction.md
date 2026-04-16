@@ -13,7 +13,6 @@ Aalto Gamers proudly presents the League of Legends Finnish Student Championship
 Gather your vanguard of students or recent graduates\* and
 fight for a prize pool of 1000€ and the glory of hoisting the League of Legends
 OSM cup!
-s
 
 ### Sign up
 
