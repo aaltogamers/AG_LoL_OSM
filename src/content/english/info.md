@@ -16,7 +16,7 @@ The top 4 teams of the bracket will advance to the finals
 
 $finalsDate$ $finalsStart$ - $finalsEnd$ at Design Factory, Puumiehenkuja 5a, Espoo.  
 4 team single-elimination, best of 3 (BO3).  
-Tickets to the finals will be available soon
+Ticket for the finals can be found [HERE]($ticketLink$)
 <lx>Basic tickets are **free**</lx>
 <lx>Patch tickets include the OSM patch, **3€**</lx>
 <lx>Supporter tickets include the OSM-patch, **10€**</lx>

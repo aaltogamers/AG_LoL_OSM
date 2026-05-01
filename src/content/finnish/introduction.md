@@ -18,4 +18,4 @@ Kokoa joukkueesi opiskelijoita ja vastavalmistuneita\*, taistele 1000 € palkin
 
 ### Katsojaliput
 
-Katsojaliput finaaleihin tulevat saataville pian™
+[VARAA KATSOJALIPPU TÄSTÄ]($ticketLink$)

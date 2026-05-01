@@ -20,4 +20,4 @@ OSM cup!
 
 ### Finals tickets
 
-Audience tickets for the finals will be available soon™
+[GET YOUR AUDIENCE TICKETS HERE]($ticketLink$)
