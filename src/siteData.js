@@ -82,7 +82,7 @@ export const markdownReplacements = {
   finalsEnd: "23:00",
   signUpLink:
     "https://docs.google.com/forms/d/e/1FAIpQLSey7mWrfU4sW1mbKEYbHhLMAdnm8ClkFBtbfEHuc9j0BpysBQ/viewform?usp=dialog",
-  ticketLink: "https//aaltogamers.fi/link/osmtickets?ref=osmwebsite", // TODO
+  ticketLink: "https://aaltogamers.fi/link/osmtickets?ref=osmwebsite",
   firstPrize: "500",
   secondPrize: "250",
   thirdPrize: "125",
