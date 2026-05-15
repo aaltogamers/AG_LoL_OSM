@@ -1,12 +1,15 @@
 import React, { useContext } from "react";
 import { languages } from "../translations.js";
-import {
-  LanguageContext,
-  LANGUAGE_STORAGE_KEY,
-} from "../contexts/Language";
+import { LanguageContext, LANGUAGE_STORAGE_KEY } from "../contexts/Language";
 
 const LanguageSelector = () => {
   const [langState, dispatch] = useContext(LanguageContext);
+  const location = window.location.pathname;
+
+  if (location === "/brackets") {
+    return null;
+  }
+
   const setLanguageTo = (langString) => {
     dispatch({ type: "set_language", value: langString });
     try {
