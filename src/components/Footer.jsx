@@ -1,4 +1,5 @@
 import React, { useContext } from "react";
+import { useLocation } from "@reach/router";
 import { languages } from "../translations";
 import { LanguageContext } from "../contexts/Language";
 import { translate } from "../utils";
@@ -22,9 +23,9 @@ const FooterModule = () => {
   const [langState] = useContext(LanguageContext);
   const t = (translation) => translate(translation, langState);
 
-  const location = window.location.pathname;
+  const location = useLocation();
 
-  if (location === "/brackets") {
+  if (location.pathname === "/brackets") {
     return null;
   }
 

@@ -1,12 +1,13 @@
 import React, { useContext } from "react";
+import { useLocation } from "@reach/router";
 import { languages } from "../translations.js";
 import { LanguageContext, LANGUAGE_STORAGE_KEY } from "../contexts/Language";
 
 const LanguageSelector = () => {
   const [langState, dispatch] = useContext(LanguageContext);
-  const location = window.location.pathname;
+  const location = useLocation();
 
-  if (location === "/brackets") {
+  if (location.pathname === "/brackets") {
     return null;
   }
 
