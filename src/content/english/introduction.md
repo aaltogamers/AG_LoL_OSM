@@ -14,9 +14,15 @@ Gather your vanguard of students or recent graduates\* and
 fight for a prize pool of 1000€ and the glory of hoisting the League of Legends
 OSM cup!
 
+### Striimi
+
+[FOLLOW THE STREAM HERE 16.5. 12:00 - 20:00](https://www.twitch.tv/aaltogamers)
+
+<!---
 ### Sign up
 
 [SIGN YOUR TEAM UP HERE]($signUpLink$)
+--->
 
 ### Finals tickets
 

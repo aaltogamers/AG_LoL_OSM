@@ -73,7 +73,7 @@ export const siteInfo = {
 
 export const markdownReplacements = {
   registrationStartDate: "16.04.",
-  registrationEndDate: "10.05.",
+  registrationEndDate: "13.05.",
   qualifiersDate: "16.05.",
   finalsDate: "23.05.",
   qualifiersStart: "12:00",
