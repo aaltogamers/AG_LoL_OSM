@@ -7,7 +7,16 @@ const LanguageSelector = () => {
   const [langState, dispatch] = useContext(LanguageContext);
   const location = useLocation();
 
-  if (location.pathname === "/brackets") {
+  const pathname =
+    (location && location.pathname) ||
+    (typeof window !== "undefined" &&
+      window.location &&
+      window.location.pathname) ||
+    "";
+
+  const normalizedPathname = pathname.replace(/\/+$/, "");
+
+  if (normalizedPathname === "/brackets") {
     return null;
   }
 
