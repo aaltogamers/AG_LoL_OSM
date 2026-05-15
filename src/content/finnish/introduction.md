@@ -14,7 +14,7 @@ Kokoa joukkueesi opiskelijoita ja vastavalmistuneita\*, taistele 1000 € palkin
 
 ### Striimi
 
-[SEURAA STRIIMIÄ TÄSTÄ 16.5. 12:00 - 20:00](https://www.twitch.tv/aaltogamers)
+[SEURAA STRIIMIÄ TWITCHISSÄ 16.5. 12:00 - 20:00](https://www.twitch.tv/aaltogamers)
 
 <!---
 ### Ilmoittautuminen
