@@ -174,9 +174,9 @@ ended. The decision of the Chief Judge is final and cannot be appealed.
   are not available in the following games of the series.
 - 2.4.1: Use of Drafter.lol ([https://drafter.lol/](https://drafter.lol/))
   is mandatory except on the final day if Riot Games Tournament Realm is used.
-- 2.7: The team at the top of the bracket will be the home team/blue side. The game
-  administrators will create the games. Home team/blue side will be responsible for
-  creating and supplying the other team with the Drafter.lol.
+- 2.7: The team at the top of the bracket will be the home team/blue side. Home team/blue side will be responsible for
+  creating and supplying the other team with the Drafter.lol and the game lobby. **For streamed games,
+  tournament admins will create the Drafter.lol and the game lobby.**
 
 Players must adhere to Aalto Gamers [Safer Space Policy](https://aaltogamers.fi/safespace). Players breaking the policy are subject to disciplinary action or disqualification of their team from the tournament.
 &nbsp;
