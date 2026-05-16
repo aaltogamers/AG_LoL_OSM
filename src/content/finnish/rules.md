@@ -196,6 +196,6 @@ lopullinen ja siitä ei voi tehdä kantelua.
 - 2.7: Yläpuolella bracketissä oleva joukkue on kotijoukkue/blue side. Kotijoukkue/blue side on vastuussa Drafter.lolin ja pelilobbyn luomisesta ja
   jakamisesta toiselle joukkueelle. **Striimattavissa peleissä adminit luovat Drafter.lolin ja peliaulat.**
 
-Pelaajien on noudatettava Aalto Gamersin [safer space linjausta](https://aaltogamers.fi/safespace). Käytäntöä rikkovia pelaajia vastaan voidaan ryhtyä kurinpitotoimiin tai heidän joukkueensa hylätään turnauksesta.turnauksesta.
+Pelaajien on noudatettava Aalto Gamersin [safer space linjausta](https://aaltogamers.fi/safespace). Käytäntöä rikkovia pelaajia vastaan voidaan ryhtyä kurinpitotoimiin tai heidän joukkueensa hylätään turnauksesta.
 
 &nbsp;
