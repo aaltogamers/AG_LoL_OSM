@@ -198,4 +198,3 @@ lopullinen ja siitä ei voi tehdä kantelua.
 
 Pelaajien on noudatettava Aalto Gamersin [safer space linjausta](https://aaltogamers.fi/safespace). Käytäntöä rikkovia pelaajia vastaan voidaan ryhtyä kurinpitotoimiin tai heidän joukkueensa hylätään turnauksesta.
 
-&nbsp;

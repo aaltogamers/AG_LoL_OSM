@@ -18,6 +18,10 @@ OSM cup!
 
 [FOLLOW THE STREAM ON TWITCH 16.5. 12:00 - 20:00](https://www.twitch.tv/aaltogamers)
 
+### Brackets
+
+[CHECK OUT THE BRACKETS HERE](https://osm.aaltogamers.fi/brackets)
+
 <!---
 ### Sign up
 

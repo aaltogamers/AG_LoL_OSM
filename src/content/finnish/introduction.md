@@ -16,6 +16,10 @@ Kokoa joukkueesi opiskelijoita ja vastavalmistuneita\*, taistele 1000 € palkin
 
 [SEURAA STRIIMIÄ TWITCHISSÄ 16.5. 12:00 - 20:00](https://www.twitch.tv/aaltogamers)
 
+### Brackets
+
+[KATSO BRACKETIT TÄSTÄ](https://osm.aaltogamers.fi/brackets)
+
 <!---
 ### Ilmoittautuminen
 
