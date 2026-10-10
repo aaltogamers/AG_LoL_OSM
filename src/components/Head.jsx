@@ -25,6 +25,11 @@ const Head = () => {
       <meta name="author" content={siteInfo.author}></meta>
       <meta name="description" content={t(siteInfo.description)}></meta>
       <link rel="canonical" href={t(translations.homePageLink)} />
+      <script
+        defer
+        src="https://stats.aaltogamers.fi/stats.js"
+        data-website-id="15ae584d-fdfd-4ad0-9311-c03951dab5fc"
+      ></script>
     </Helmet>
   );
 };
